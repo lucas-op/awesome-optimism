@@ -74,6 +74,13 @@ Official resources for Optimism.
 - [Simple Optimism Node](https://github.com/smartcontracts/simple-optimism-node) - Learn to run a Optimism node.
 - [Deploy a basic contract](https://github.com/ethereum-optimism/optimism-tutorial/tree/main/getting-started) - Basics of OP Mainnet development
 - [Building your project](https://github.com/ethereum-optimism/optimism-tutorial) - Tutorials put together by the Optimism community
+
+## Testnet Faucets
+
+- [Superchain Faucet](https://app.optimism.io/faucet) 
+- [Paradigm MultiFaucet](https://faucet.paradigm.xyz/) 
+- [Coinbase Faucet](https://coinbase.com/faucets/optimism-goerli-faucet)
+- [QuickNode Faucet](https://faucet.quicknode.com/optimism/goerli)
   
 ## Projects
 
