@@ -88,6 +88,8 @@ Official resources for Optimism.
 - [Geo Web](https://www.geoweb.network/) - The Geo Web is a public geospatial information network designed for the spatial computing era.
 - [OptiNames](https://optinames.xyz/) - ENS Subdomain on Optimism L2.
 - [Karma](https://www.karmahq.xyz/) - Integrated DAO toolkit to measure contributions and enhance Governance
+- [Chaintrap Builders](https://www.polysensus.com/) - Bringing a simple dungeon game to Optimism
+- [Clique](https://clique.social/) - Identity oracles connecting web2 and web3
 
 
 # Contribute
