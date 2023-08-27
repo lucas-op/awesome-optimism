@@ -44,7 +44,8 @@ Official resources for Optimism.
 - Algorand Discord - Official Algorand Discord server.
 
 - [Official website](https://www.optimism.io/) - The go-to place for all things related to Optimism.
-- [Documentation](https://community.optimism.io/) - Documentation for users and developers.
+- [OP Mainnet Documentation](https://community.optimism.io/) - Documentation for OP Mainnet.
+- [OP Stack Documentation](https://stack.optimism.io/) - Documentation for OP Stack.
 
 ## OP Stack
 
