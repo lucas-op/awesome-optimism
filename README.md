@@ -163,30 +163,7 @@ The Ideas behind the Ethereum Project.
 Descriptions and implementations of Ethereum-related protocols.
 
 - [Swarm](https://swarm.ethereum.org/) - Swarm is a distributed storage platform and content distribution service.
-- [Whisper](https://github.com/ethereum/wiki/wiki/Whisper-pages) - A communication protocol for DApps to communicate with each other.
-- [Casper](https://github.com/ethereum/wiki/wiki/Casper-Proof-of-Stake-compendium) - Proof of Stake Implementation.
-  - Casper CBC - Correct by Construction for full Proof-of-Stake.
-    - [Code Repository](https://github.com/ethereum/cbc-casper) - A python implementation of a class of correct-by-construction consensus protocols.
-    - [CBC Wiki](https://github.com/ethereum/cbc-casper/wiki)
-    - [CBC Research Paper](https://github.com/ethereum/research/blob/master/papers/cbc-consensus/AbstractCBC.pdf)
-  - Casper FFG - Friendly Finality Gadget for PoS validation with Proof-of-Work.
-    - [Code Repository](https://github.com/ethereum/casper) - The FFG contract, related software and tests.
-    - [Casper the Friendly Finality Gadget Paper](https://arxiv.org/abs/1710.09437) - Research paper detailing FFG.
-  - [PoS FAQs](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQs)
-  - [FFG vs CBC Comparison](https://ethereum.stackexchange.com/questions/31797/casper-ffg-vs-casper-ghost-cbc/31814#31814) - A Stack Exchange comparison of FFG and CBC.
-- [Sharding](https://github.com/ethereum/wiki/wiki/Sharding-introduction-R&D-compendium) - Partitioning computational resources so that nodes do not have to process the entire blockchain.
-- [Web3.js](https://github.com/ethereum/web3.js) - Ethereum's JavaScript API.
-- [Ethash Proof of Work](https://github.com/ethereum/wiki/wiki/Ethash) - Ethereum's Proof of Work Algorithm.
-- zk-SNARKS - Verify knowledge of a secret without revealing it.
-  - [Introduction to zk-SNARKS with examples](https://media.consensys.net/introduction-to-zksnarks-with-examples-3283b554fc3b) - A practical overview of zk-SNARKS.
-  - [A practical beginner's guide to creating, proving, and verifying zkSNARKs](https://github.com/jstoxrocky/zksnarks_example) - Introduction to zk-SNARKS and implementation as a smart contract.
-  - [zk-SNARKS: Under the Hood](https://medium.com/@VitalikButerin/zk-snarks-under-the-hood-b33151a013f6) - Technical explanation of zk-SNARKS.
-  - [zk-SNARKs in a nutshell](https://blog.ethereum.org/2016/12/05/zksnarks-in-a-nutshell/) - Technical explanation of zk-SNARKS.
-  - [Practical zk-SNARKs for Ethereum](http://coders-errand.com/practical-zk-snarks-for-ethereum/) - A short and practical introduction to using zk-SNARKs.
-- Token Bonding Curves (TBC) - Mathematically sound price-supply relationship curves.
-  - [Bonding Curves Explained](https://yos.io/2018/11/10/bonding-curves/) - A thorough introduction to TBCs with code.
-  - [Token Bonding Curves in Practice](https://tokeneconomy.co/token-bonding-curves-in-practice-3eb904720cb8) - Exploring a universal distribution of IP via non-fungible tokens and curation markets.
-  - [Bonding Curve Playground](https://bondingplayground.netlify.com/) - An interactive bonding curve webapp.
+
 
 
 ## Books
@@ -204,13 +181,6 @@ Descriptions and implementations of Ethereum-related protocols.
 - [Week in Ethereum](http://www.weekinethereum.com/) - A summary of everything happening in Ethereum each week.
 - [Ethereum Worldwide Meetups](https://www.meetup.com/find/?allMeetups=false&keywords=ethereum) - Meet up with the local Ethereum community via meetup.com.
 - [Ethereum Wiki Page](https://eth.wiki/en/home)
-
-
-## Official
-
-- [Ethereum Website](https://www.ethereum.org/)
-- [Ethereum Foundation](https://ethereum.foundation/)
-- [Ethereum GitHub](https://github.com/ethereum/)
 
 
 
