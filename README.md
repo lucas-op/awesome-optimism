@@ -1,6 +1,6 @@
 <br/>
 <div align="center">
-  <img width="250px" src="./project_logo.jpg">
+  <img width="250px" src="./Profile-Logo.png">
 </div>
 <br/>
 <div align="center">
