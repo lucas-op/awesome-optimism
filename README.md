@@ -100,7 +100,8 @@ Official resources for Optimism.
 - [Chaintrap Builders](https://www.polysensus.com/) - Bringing a simple dungeon game to Optimism
 - [Clique](https://clique.social/) - Identity oracles connecting web2 and web3
 - [Another World](https://anotherworld.gg/) - P2E open world for NFT IPs and adventures
-
+- [Let's get HAI](https://www.letsgethai.com/#/) - Multi-collateral floating-peg stablecoin native to Optimism
+- [Octav](https://octav.fi/) - Free & editable Web3 data analytics platform
 
 
 
