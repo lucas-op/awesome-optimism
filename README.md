@@ -18,18 +18,19 @@ Pull requests are welcome! In the spirit of decentralized applications however, 
 
 1. [Official Resources](#documentation)
 2. [OP Stack](#op-stack)
-3. [Programming](#programming)
-4. [Tutorials](#tutorials)
-5. [Code](#code)
-6. [Learning and MOOCs](#learning-and-moocs)
-7. [Philosophy](#philosophy)
-8. [Videos](#videos)
-9. [Wallets](#wallets)
-10. [Blockchain Utilities](#blockchain-utilities)
-11. [Protocols](#protocols)
-12. [Books](#books)
-13. [Misc](#misc)
-14. [Official](#official)
+3. [Analytics](#analytics)
+4. [Programming](#programming)
+5. [Tutorials](#tutorials)
+6. [Code](#code)
+7. [Learning and MOOCs](#learning-and-moocs)
+8. [Philosophy](#philosophy)
+9. [Videos](#videos)
+10. [Wallets](#wallets)
+11. [Blockchain Utilities](#blockchain-utilities)
+12. [Protocols](#protocols)
+13. [Books](#books)
+14. [Misc](#misc)
+15. [Official](#official)
 
 
 ## Official Resources
@@ -46,6 +47,10 @@ Official resources for Optimism.
 - [OP Labs Blog](https://blog.oplabs.co/) Blog page by OP Labs
 - [Optimism Discord](https://discord.gg/optimism) - Announcements, general iscussion and support
 - [Governance Forum](https://gov.optimism.io/) - Goverance Proposals and Grants Proposals
+
+## Analytics
+
+- [OP Analytics](https://github.com/ethereum-optimism/op-analytics) - Onchain Data, Utilities, References, and other Analytics on Optimism Mainnet
   
 ## OP Stack
 
