@@ -16,7 +16,7 @@ Pull requests are welcome! In the spirit of decentralized applications however, 
 
 ## Contents
 
-1. [Documentation](#documentation)
+1. [Official Resources](#documentation)
 2. [OP Stack](#op-stack)
 3. [Programming](#programming)
 4. [Tutorials](#tutorials)
@@ -32,13 +32,19 @@ Pull requests are welcome! In the spirit of decentralized applications however, 
 14. [Official](#official)
 
 
-## Documentation
+## Official Resources
 
-Official Ethereum Documentation.
+Official resources for Optimism.
 
-- [GitHub Wiki](https://github.com/ethereum/wiki/wiki) - Ethereum wiki covering all things related to Ethereum. The go-to place for all things.
-- [Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper) - Non-technical introductory description of Ethereum.
-- [Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf) - Technical description of Ethereum. Technically outdated, but interesting.
+- Algorand - Official website.
+- Algorand Foundation - Official website of the Foundation.
+- Algorand FAQ - FAQ maintained by the Algorand Foundation.
+- Algorand Governance - Official website of Algorand Governance program.
+- Algorand Developer Portal - Official Algorand developer portal.
+- Algorand Discord - Official Algorand Discord server.
+
+- [Official website](https://www.optimism.io/) - The go-to place for all things related to Optimism.
+- [Documentation](https://community.optimism.io/) - Documentation for users and developers.
 
 ## OP Stack
 
