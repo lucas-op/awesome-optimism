@@ -40,6 +40,13 @@ Official Ethereum Documentation.
 - [Whitepaper](https://github.com/ethereum/wiki/wiki/White-Paper) - Non-technical introductory description of Ethereum.
 - [Yellowpaper](https://ethereum.github.io/yellowpaper/paper.pdf) - Technical description of Ethereum. Technically outdated, but interesting.
 
+## OP Stack
+
+Official Ethereum Documentation.
+
+- [Base](https://github.com/ethereum/wiki/wiki) - Coinbase's Layer 2 network offering scalability and faster transactions.
+- [Kinto](https://github.com/ethereum/wiki/wiki/White-Paper) - KYC DeFi network focused on safe and insured decentralized financial services.
+- [OPCraft](https://ethereum.github.io/yellowpaper/paper.pdf) - On-chain virtual world games with high throughput and faster block generation.
 
 ## Programming
 
