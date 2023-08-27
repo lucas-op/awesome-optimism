@@ -185,6 +185,4 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Aweso
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
-
-See `license.md`.
+This project is licensed under the MIT License.
