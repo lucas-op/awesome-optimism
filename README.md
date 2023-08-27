@@ -4,7 +4,7 @@
 </div>
 <br/>
 <div align="center">
-An awesome list about everything related to the <a href='https://en.wikipedia.org/wiki/Ethereum](https://github.com/lucas-op/awesome-optimism/blob/main/assets/op_logo.jpeg)'>Optimism</a> platform.
+An awesome list about everything related to the <a href='https://raw.githubusercontent.com/lucas-op/awesome-optimism/main/assets/op_logo.jpeg'>Optimism</a> platform.
 <br />
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
