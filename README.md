@@ -102,6 +102,7 @@ Official resources for Optimism.
 - [Another World](https://anotherworld.gg/) - P2E open world for NFT IPs and adventures
 - [Let's get HAI](https://www.letsgethai.com/#/) - Multi-collateral floating-peg stablecoin native to Optimism
 - [Octav](https://octav.fi/) - Free & editable Web3 data analytics platform
+- [DAOstar](https://daostar.org/) - DAO Onboarding & Attestation List
 
 
 
