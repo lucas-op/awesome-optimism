@@ -88,12 +88,6 @@ Learn about the theory behind Ethereum.
 
 - [Ethereum Stack Exchange](https://ethereum.meta.stackexchange.com/questions/431/faq-frequently-asked-questions-and-reference-answers) - Question and answers about Ethereum.
 
-## Philosophy
-
-The Ideas behind the Ethereum Project.
-
-- [Making Smart Contracts Smarter](https://eprint.iacr.org/2016/633.pdf) - Smart contract security attacks.
-
 ## Videos
 
 - [Ethereum Explained (22:00)](https://www.youtube.com/watch?v=-_Qs0XdPpw8) - Introductory explanation to the Ethereum platform.
@@ -111,16 +105,9 @@ The Ideas behind the Ethereum Project.
 - [Enjinx](https://enjinx.io/) - Ethereum block explorer, that also nicely visualizes assets and tokens.
 - [Blockchair](https://blockchair.com/ethereum/) - Multi block explorer with nice charts.
 
-## Protocols
+## pROJECTS
 
-Descriptions and implementations of Ethereum-related protocols.
-
-- [Swarm](https://swarm.ethereum.org/) - Swarm is a distributed storage platform and content distribution service.
-
-## Books
-
-- [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook) - A developers guide to the operation and use of Ethereum.
-
+- [Geo Web](https://www.geoweb.network/) - The Geo Web is a public geospatial information network designed for the spatial computing era.
 
 ## Misc
 
@@ -131,7 +118,6 @@ Descriptions and implementations of Ethereum-related protocols.
 # Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-Inspired by [Awesome Python](https://github.com/vinta/awesome-python) and [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 ## License
 
