@@ -19,19 +19,10 @@ Pull requests are welcome! In the spirit of decentralized applications however, 
 1. [Official Resources](#documentation)
 2. [Analytics](#analytics)
 3. [Blockchain Explorers](#blockchain-explorers)
-5. [OP Stack](#op-stack)
-6. [Programming](#programming)
-7. [Tutorials](#tutorials)
-8. [Code](#code)
-9. [Learning and MOOCs](#learning-and-moocs)
-10. [Philosophy](#philosophy)
-11. [Videos](#videos)
-12. [Wallets](#wallets)
-13. [Blockchain Utilities](#blockchain-utilities)
-14. [Protocols](#protocols)
-15. [Books](#books)
-16. [Misc](#misc)
-17. [Official](#official)
+4. [OP Stack](#op-stack)
+5. [Tutorials](#tutorials)
+6. [Projects](#projects)
+
 
 
 ## Official Resources
@@ -81,30 +72,9 @@ Official resources for Optimism.
 ## Tutorials
 
 - [Simple Optimism Node](https://github.com/smartcontracts/simple-optimism-node) - Learn to run a Optimism node.
-
-## Code
-
-- [Solidity Documentation](https://solidity.readthedocs.io) - Programming language of choice for smart contracts.
-
-## Learning and MOOCs
-
-Learn about the theory behind Ethereum.
-
-- [Ethereum Stack Exchange](https://ethereum.meta.stackexchange.com/questions/431/faq-frequently-asked-questions-and-reference-answers) - Question and answers about Ethereum.
-
-## Videos
-
-- [Ethereum Explained (22:00)](https://www.youtube.com/watch?v=-_Qs0XdPpw8) - Introductory explanation to the Ethereum platform.
-
-## Wallets
-
-- [MetaMask](https://metamask.io/) - Browser extension that can interact with Remix IDE and send transactions to different testnets.
-
-## Blockchain Explorers
-
-- [OP Mainnet Explorer](https://optimistic.etherscan.io/) - OP Mainnet block explorer with other useful block utilities.
-- [Blockscout](https://optimism.blockscout.com/) - Open-source Block Explorer
-
+- [Deploy a basic contract](https://github.com/ethereum-optimism/optimism-tutorial/tree/main/getting-started) - Basics of OP Mainnet development
+- [Building your project](https://github.com/ethereum-optimism/optimism-tutorial) - Tutorials put together by the Optimism community
+  
 ## Projects
 
 - [Geo Web](https://www.geoweb.network/) - The Geo Web is a public geospatial information network designed for the spatial computing era.
