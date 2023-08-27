@@ -21,7 +21,8 @@ Pull requests are welcome! In the spirit of decentralized applications however, 
 3. [Blockchain Explorers](#blockchain-explorers)
 4. [OP Stack](#op-stack)
 5. [Tutorials](#tutorials)
-6. [Projects](#projects)
+6. [Testnet Faucets](#testnet-faucets)
+7. [Projects](#projects)
 
 
 
@@ -86,6 +87,7 @@ Official resources for Optimism.
 
 - [Geo Web](https://www.geoweb.network/) - The Geo Web is a public geospatial information network designed for the spatial computing era.
 - [OptiNames](https://optinames.xyz/) - ENS Subdomain on Optimism L2.
+- [Karma](https://www.karmahq.xyz/) - Integrated DAO toolkit to measure contributions and enhance Governance
 
 
 # Contribute
