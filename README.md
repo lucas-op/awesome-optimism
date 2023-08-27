@@ -51,6 +51,11 @@ Official resources for Optimism.
 ## Analytics
 
 - [OP Analytics](https://github.com/ethereum-optimism/op-analytics) - Onchain Data, Utilities, References, and other Analytics on Optimism Mainnet
+
+## Blockchain Explorers
+
+- [OP Mainnet Explorer](https://optimistic.etherscan.io/) - OP Mainnet block explorer with other useful block utilities.
+- [Blockscout](https://optimism.blockscout.com/) - Open-source Block Explorer
   
 ## OP Stack
 
@@ -96,7 +101,7 @@ Learn about the theory behind Ethereum.
 
 - [MetaMask](https://metamask.io/) - Browser extension that can interact with Remix IDE and send transactions to different testnets.
 
-## Blockchain Utilities
+## Blockchain Explorers
 
 - [OP Mainnet Explorer](https://optimistic.etherscan.io/) - OP Mainnet block explorer with other useful block utilities.
 - [Blockscout](https://optimism.blockscout.com/) - Open-source Block Explorer
