@@ -42,6 +42,10 @@ Official resources for Optimism.
 - [Optimism Foundation Twitter](https://twitter.com/optimismFND) - Official account of the Optimism Foundation.
 - [Optimism Goverance Twitter](https://twitter.com/OptimismGov) - The official Optimism Governance account.
 - [OP Labs Twitter](https://twitter.com/OPLabsPBC) - The official OP Labs account.
+- [Optimism Collective Mirror](https://optimism.mirror.xyz/) - Articles by the Optimism Collective
+- [OP Labs Blog](https://blog.oplabs.co/) Blog page by OP Labs
+- [Optimism Discord](https://discord.gg/optimism) - Announcements, discussion and support
+- [Governance Forum](https://gov.optimism.io/) - Goverance Discussion
   
 ## OP Stack
 
