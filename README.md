@@ -46,7 +46,10 @@ Official resources for Optimism.
 - [Official website](https://www.optimism.io/) - The go-to place for all things related to Optimism.
 - [OP Mainnet Documentation](https://community.optimism.io/) - Documentation for OP Mainnet.
 - [OP Stack Documentation](https://stack.optimism.io/) - Documentation for OP Stack.
-
+- [Optimism Foundation Twitter](https://twitter.com/optimismFND) - Official account of the Optimism Foundation.
+- [Optimism Goverance Twitter](https://twitter.com/OptimismGov) - The official Optimism Governance account.
+- [OP Labs Twitter](https://twitter.com/OPLabsPBC) - The official OP Labs account.
+  
 ## OP Stack
 
 Official Ethereum Documentation.
