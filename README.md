@@ -80,9 +80,7 @@ Official resources for Optimism.
 
 ## Tutorials
 
-Step by step guides on using Ethereum.
-
-- [CryptoZombies](https://cryptozombies.io/) - Learn to Code Ethereum DApps By Building Your Own Game.
+- [Simple Optimism Node](https://github.com/smartcontracts/simple-optimism-node) - Learn to run a Optimism node.
 
 ## Code
 
@@ -111,12 +109,6 @@ Learn about the theory behind Ethereum.
 
 - [Geo Web](https://www.geoweb.network/) - The Geo Web is a public geospatial information network designed for the spatial computing era.
 - [OptiNames](https://optinames.xyz/) - ENS Subdomain on Optimism L2.
-- 
-
-## Misc
-
-- [r/Ethereum](https://www.reddit.com/r/ethereum/) - Ethereum subreddit.
-
 
 
 # Contribute
