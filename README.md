@@ -44,12 +44,12 @@ Official Ethereum Documentation.
 
 Official Ethereum Documentation.
 
-- [Base](https://github.com/ethereum/wiki/wiki) - Coinbase's Layer 2 network offering scalability and faster transactions.
-- [Kinto](https://github.com/ethereum/wiki/wiki/White-Paper) - KYC DeFi network focused on safe and insured decentralized financial services.
-- [OPCraft](https://ethereum.github.io/yellowpaper/paper.pdf) - On-chain virtual world games with high throughput and faster block generation.
-- [UniDex](https://github.com/ethereum/wiki/wiki) - Multi-chain aggregator with low gas costs and secure transactions.
-- [Worldcoin](https://github.com/ethereum/wiki/wiki/White-Paper) - Migration of World App wallet to OP mainnet and partnership with Optimism Collective.
-- [Keystone](https://ethereum.github.io/yellowpaper/paper.pdf) - Full-chain game engine for enhanced gaming experience on the OP Stack.
+- [Base](https://base.org/) - Coinbase's Layer 2 network offering scalability and faster transactions.
+- [Kinto](https://kinto.xyz/) - KYC DeFi network focused on safe and insured decentralized financial services.
+- [OPCraft](https://opcraft.mud.dev/) - On-chain virtual world games with high throughput and faster block generation.
+- [UniDex](https://www.unidex.exchange/) - Multi-chain aggregator with low gas costs and secure transactions.
+- [Worldcoin](https://worldcoin.org/) - Migration of World App wallet to OP mainnet and partnership with Optimism Collective.
+- [Keystone](https://github.com/curio-research/keystone) - Full-chain game engine for enhanced gaming experience on the OP Stack.
 - [Zora Network](https://ethereum.github.io/yellowpaper/paper.pdf) - Layer 2 integration with Zora NFT trading market, attracting artists and collectors.
 - [Loot Chain](https://github.com/ethereum/wiki/wiki/White-Paper) - Layer 2 network built on OP Stack by Adventure Gold DAO to reduce gas fees. Uses Polygon for data availability layer.
 - [Manta Pacific](https://ethereum.github.io/yellowpaper/paper.pdf) - Layer 2 network based on OP Stack by Manta Network for zero-knowledge proof applications. Uses Celestia data availability layer and Caldera's improved OP Stack.
