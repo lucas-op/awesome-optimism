@@ -17,18 +17,19 @@ Pull requests are welcome! In the spirit of decentralized applications however, 
 ## Contents
 
 1. [Documentation](#documentation)
-2. [Programming](#programming)
-3. [Tutorials](#tutorials)
-4. [Code](#code)
-5. [Learning and MOOCs](#learning-and-moocs)
-6. [Philosophy](#philosophy)
-7. [Videos](#videos)
-8. [Wallets](#wallets)
-9. [Blockchain Utilities](#blockchain-utilities)
-10. [Protocols](#protocols)
-11. [Books](#books)
-12. [Misc](#misc)
-13. [Official](#official)
+2. [OP Stack](#op-stack)
+3. [Programming](#programming)
+4. [Tutorials](#tutorials)
+5. [Code](#code)
+6. [Learning and MOOCs](#learning-and-moocs)
+7. [Philosophy](#philosophy)
+8. [Videos](#videos)
+9. [Wallets](#wallets)
+10. [Blockchain Utilities](#blockchain-utilities)
+11. [Protocols](#protocols)
+12. [Books](#books)
+13. [Misc](#misc)
+14. [Official](#official)
 
 
 ## Documentation
