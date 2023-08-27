@@ -49,6 +49,13 @@ Official resources for Optimism.
 
 - [OP Mainnet Explorer](https://optimistic.etherscan.io/) - OP Mainnet block explorer with other useful block utilities.
 - [Blockscout](https://optimism.blockscout.com/) - Open-source Block Explorer
+
+## Rollup Clients
+
+- [OP-Geth](https://github.com/ethereum-optimism/op-geth) - Official Golang execution layer implementation of Optimism by OP Labs.
+- [Magi](https://github.com/a16z/magi) - An OP Stack rollup client written in Rust, designed by a16z. Read the announcement here.
+- [OP-Erigon](https://github.com/testinprod-io/op-erigon) - A fork of Erigon that supports the execution engine of OP stack.
+- [OP-Reth](https://github.com/paradigmxyz/reth/pull/1569) - A Rust-based full node implementation by Paradigm currently under development.
   
 ## OP Stack
 
@@ -68,7 +75,9 @@ Official resources for Optimism.
 - [Public Goods Network (PGN)](https://github.com/ethereum/wiki/wiki/White-Paper) - Layer 2 network supported by Gitcoin. PGN evaluates and allocates fees based on accumulated data.
 - [Lyra Finance](https://ethereum.github.io/yellowpaper/paper.pdf) - Options protocol launching V2 with "Lyra Chain" on OP Stack for high-throughput, low-latency, and low-cost transactions.
 - [Mode Network](https://ethereum.github.io/yellowpaper/paper.pdf) - Public test network built on OP Stack with contract revenue sharing incentives at the protocol layer.
-- [Debank Chain](https://ethereum.github.io/yellowpaper/paper.pdf) - Test network launched by DeBank based on OP Stack, aiming to reduce gas fees significantly. 
+- [Debank Chain](https://ethereum.github.io/yellowpaper/paper.pdf) - Test network launched by DeBank based on OP Stack, aiming to reduce gas fees significantly.
+
+  
 
 ## Tutorials
 
@@ -90,6 +99,9 @@ Official resources for Optimism.
 - [Karma](https://www.karmahq.xyz/) - Integrated DAO toolkit to measure contributions and enhance Governance
 - [Chaintrap Builders](https://www.polysensus.com/) - Bringing a simple dungeon game to Optimism
 - [Clique](https://clique.social/) - Identity oracles connecting web2 and web3
+- [Another World](https://anotherworld.gg/) - P2E open world for NFT IPs and adventures
+
+
 
 
 # Contribute
