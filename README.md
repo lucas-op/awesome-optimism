@@ -98,16 +98,14 @@ Learn about the theory behind Ethereum.
 
 ## Blockchain Utilities
 
-- [ETH Gas Station](https://ethgasstation.info/) - A tool to check the current price of gas for transactions.
-- [Etherscan](https://etherscan.io/) - Ethereum block explorer with other useful block utilities.
-- [Ethplorer](https://ethplorer.io/) - Ethereum block explorer.
-- [Etherchain](https://www.etherchain.org/) - Ethereum block explorer.
-- [Enjinx](https://enjinx.io/) - Ethereum block explorer, that also nicely visualizes assets and tokens.
-- [Blockchair](https://blockchair.com/ethereum/) - Multi block explorer with nice charts.
+- [OP Mainnet Explorer](https://optimistic.etherscan.io/) - OP Mainnet block explorer with other useful block utilities.
+- [Blockscout](https://optimism.blockscout.com/) - Open-source Block Explorer
 
-## pROJECTS
+## Projects
 
 - [Geo Web](https://www.geoweb.network/) - The Geo Web is a public geospatial information network designed for the spatial computing era.
+- [OptiNames](https://optinames.xyz/) - ENS Subdomain on Optimism L2.
+- 
 
 ## Misc
 
