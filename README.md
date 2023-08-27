@@ -36,13 +36,6 @@ Pull requests are welcome! In the spirit of decentralized applications however, 
 
 Official resources for Optimism.
 
-- Algorand - Official website.
-- Algorand Foundation - Official website of the Foundation.
-- Algorand FAQ - FAQ maintained by the Algorand Foundation.
-- Algorand Governance - Official website of Algorand Governance program.
-- Algorand Developer Portal - Official Algorand developer portal.
-- Algorand Discord - Official Algorand Discord server.
-
 - [Official website](https://www.optimism.io/) - The go-to place for all things related to Optimism.
 - [OP Mainnet Documentation](https://community.optimism.io/) - Documentation for OP Mainnet.
 - [OP Stack Documentation](https://stack.optimism.io/) - Documentation for OP Stack.
