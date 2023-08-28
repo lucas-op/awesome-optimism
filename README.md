@@ -77,8 +77,6 @@ Official resources for Optimism.
 - [Mode Network](https://ethereum.github.io/yellowpaper/paper.pdf) - Public test network built on OP Stack with contract revenue sharing incentives at the protocol layer.
 - [Debank Chain](https://ethereum.github.io/yellowpaper/paper.pdf) - Test network launched by DeBank based on OP Stack, aiming to reduce gas fees significantly.
 
-  
-
 ## Tutorials
 
 - [Simple Optimism Node](https://github.com/smartcontracts/simple-optimism-node) - Learn to run a Optimism node.
@@ -95,15 +93,29 @@ Official resources for Optimism.
 ## Projects
 
 - [Geo Web](https://www.geoweb.network/) - The Geo Web is a public geospatial information network designed for the spatial computing era.
+  
 - [OptiNames](https://optinames.xyz/) - ENS Subdomain on Optimism L2.
-- [Karma](https://www.karmahq.xyz/) - Integrated DAO toolkit to measure contributions and enhance Governance
+
+
 - [Chaintrap Builders](https://www.polysensus.com/) - Bringing a simple dungeon game to Optimism
-- [Clique](https://clique.social/) - Identity oracles connecting web2 and web3
 - [Another World](https://anotherworld.gg/) - P2E open world for NFT IPs and adventures
+
+### DeFi
 - [Let's get HAI](https://www.letsgethai.com/#/) - Multi-collateral floating-peg stablecoin native to Optimism
+
+  
+### Analytics  
 - [Octav](https://octav.fi/) - Free & editable Web3 data analytics platform
+
+  
+### Dao Toolkit
+- [Karma](https://www.karmahq.xyz/) - Integrated DAO toolkit to measure contributions and enhance Governance
 - [DAOstar](https://daostar.org/) - DAO Onboarding & Attestation List
+
+  
+### Attestations  
 - [Attestation Station](https://optimism.easscan.org/) - Build schemas, query, and submit attestations
+- [Clique](https://clique.social/) - Identity oracles connecting web2 and web3
 
 
 
