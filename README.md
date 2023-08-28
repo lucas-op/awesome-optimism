@@ -64,17 +64,16 @@ Official resources for Optimism.
 - [UniDex](https://www.unidex.exchange/) - Multi-chain aggregator with low gas costs and secure transactions.
 - [Worldcoin](https://worldcoin.org/) - Migration of World App wallet to OP mainnet and partnership with Optimism Collective.
 - [Keystone](https://github.com/curio-research/keystone) - Full-chain game engine for enhanced gaming experience on the OP Stack.
-- [Zora Network](https://ethereum.github.io/yellowpaper/paper.pdf) - Layer 2 integration with Zora NFT trading market, attracting artists and collectors.
-- [Loot Chain](https://github.com/ethereum/wiki/wiki/White-Paper) - Layer 2 network built on OP Stack by Adventure Gold DAO to reduce gas fees. Uses Polygon for data availability layer.
-- [Manta Pacific](https://ethereum.github.io/yellowpaper/paper.pdf) - Based on OP Stack by Manta Network for ZK proof applications. Uses Celestia data availability layer and Caldera's improved OP Stack.
-- [Mantle Network](https://ethereum.github.io/yellowpaper/paper.pdf) - Modular Ethereum Layer 2 network on OP Stack supported by BitDAO and Bybit.
-- [Loot Chain](https://github.com/ethereum/wiki/wiki/White-Paper) - Layer 2 network built on OP Stack by Adventure Gold DAO to reduce gas fees. Uses Polygon for data availability layer.
-- [Forehead (Celo)](https://ethereum.github.io/yellowpaper/paper.pdf) - Transform Celo from Layer 1 to an OP Stack-based Ethereum Layer 2. Includes off-chain data availability layer powered by EigenLayer and EigenDA.
-- [Aevo](https://ethereum.github.io/yellowpaper/paper.pdf) - Decentralized options exchange built on Aevo Chain running on OP Stack.
-- [Public Goods Network (PGN)](https://github.com/ethereum/wiki/wiki/White-Paper) - Layer 2 network supported by Gitcoin. PGN evaluates and allocates fees based on accumulated data.
-- [Lyra Finance](https://ethereum.github.io/yellowpaper/paper.pdf) - Options protocol launching V2 with "Lyra Chain" on OP Stack for high-throughput, low-latency, and low-cost transactions.
-- [Mode Network](https://ethereum.github.io/yellowpaper/paper.pdf) - Public test network built on OP Stack with contract revenue sharing incentives at the protocol layer.
-- [Debank Chain](https://ethereum.github.io/yellowpaper/paper.pdf) - Test network launched by DeBank based on OP Stack, aiming to reduce gas fees significantly.
+- [Zora Network](https://zora.co/) - Layer 2 integration with Zora NFT trading market, attracting artists and collectors.
+- [Manta Pacific](https://pacific.manta.network/) - EVM-native modular execution layer for wide ZK applications adoption, with Manta’s universal circuit and zk interface.
+- [Mantle Network](https://www.mantle.xyz/) - Modular Ethereum Layer 2 network on OP Stack supported by Bybit.
+- [Loot Chain](https://lootchain.com/) - A dedicated layer 2 blockchain for the Loot community. Uses Polygon for data availability layer.
+- [Forehead (Celo)](https://celo.org/) - A Layer 1 mirgrating to an OP Stack-based Ethereum Layer 2. Includes off-chain data availability layer powered by EigenLayer and EigenDA.
+- [Aevo](https://www.aevo.xyz/) - The canonical chain for Aevo Exchange, a decentralized options exchange
+- [Public Goods Network (PGN)](https://publicgoods.network/) - Layer 2 network supported by Gitcoin that works to create durable and recurring funding for public goods.
+- [Lyra Finance](https://www.lyra.finance/) - Options protocol launching V2 with "Lyra Chain" on OP Stack for high-throughput, low-latency, and low-cost transactions.
+- [Mode Network](https://www.mode.network/) - Network built on OP Stack with contract revenue sharing incentives at the protocol layer.
+- [Debank Chain](https://github.com/DeBankDeFi/DeBankChain) - Layer 2 Blockchain for Social Engagement.
 
 ## Tutorials
 
