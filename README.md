@@ -16,10 +16,11 @@ An awesome list about everything related to <a href='https://raw.githubuserconte
 1. [Official Resources](#documentation)
 2. [Analytics](#analytics)
 3. [Blockchain Explorers](#blockchain-explorers)
-4. [OP Stack](#op-stack)
-5. [Tutorials](#tutorials)
-6. [Testnet Faucets](#testnet-faucets)
-7. [Projects](#projects)
+4. [Clients](#clients)
+5. [OP Stack](#op-stack)
+6. [Tutorials](#tutorials)
+7. [Testnet Faucets](#testnet-faucets)
+8. [Projects](#projects)
 
 
 
