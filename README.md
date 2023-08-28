@@ -47,6 +47,7 @@ Official resources for Optimism.
 
 - [OP Mainnet Explorer](https://optimistic.etherscan.io/) - OP Mainnet block explorer with other useful block utilities.
 - [Blockscout](https://optimism.blockscout.com/) - Open-source Block Explorer
+- [jiffyscan](https://www.jiffyscan.xyz/?network=optimism/) - A block explorer and analytics platform for Account Abstraction using EIP-4337.
 
 ## Clients
 
