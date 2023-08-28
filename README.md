@@ -68,7 +68,7 @@ Official resources for Optimism.
 - [Manta Pacific](https://pacific.manta.network/) - EVM-native modular execution layer for wide ZK applications adoption, with Manta’s universal circuit and zk interface.
 - [Mantle Network](https://www.mantle.xyz/) - Modular Ethereum Layer 2 network on OP Stack supported by Bybit.
 - [Loot Chain](https://lootchain.com/) - A dedicated layer 2 blockchain for the Loot community. Uses Polygon for data availability layer.
-- [Forehead (Celo)](https://celo.org/) - A Layer 1 mirgrating to an OP Stack-based Ethereum Layer 2. Includes off-chain data availability layer powered by EigenLayer and EigenDA.
+- [Forehead (Celo)](https://celo.org/) - A Layer 1 mirgrating to an OP Stack-based Ethereum Layer 2. Includes data availability layer powered by EigenLayer.
 - [Aevo](https://www.aevo.xyz/) - The canonical chain for Aevo Exchange, a decentralized options exchange
 - [Public Goods Network (PGN)](https://publicgoods.network/) - Layer 2 network supported by Gitcoin that works to create durable and recurring funding for public goods.
 - [Lyra Finance](https://www.lyra.finance/) - Options protocol launching V2 with "Lyra Chain" on OP Stack for high-throughput, low-latency, and low-cost transactions.
