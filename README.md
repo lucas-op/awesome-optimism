@@ -11,9 +11,6 @@ An awesome list about everything related to <a href='https://raw.githubuserconte
 </div>
 <br/>
 
-Pull requests are welcome! In the spirit of decentralized applications however, please ensure your submission is not a paywalled product.
-
-
 ## Contents
 
 1. [Official Resources](#documentation)
