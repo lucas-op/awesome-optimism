@@ -21,6 +21,7 @@ An awesome list about everything related to <a href='https://raw.githubuserconte
 6. [Tutorials](#tutorials)
 7. [Testnet Faucets](#testnet-faucets)
 8. [Projects](#projects)
+9. [Grants](#grants)
 
 
 
@@ -38,6 +39,7 @@ Official resources for Optimism.
 - [OP Labs Blog](https://blog.oplabs.co/) Blog page by OP Labs
 - [Optimism Discord](https://discord.gg/optimism) - Announcements, general iscussion and support
 - [Governance Forum](https://gov.optimism.io/) - Goverance Proposals and Grants Proposals
+- [OP Mainnet Status](https://status.optimism.io/) - Status updates for Optimism Mainnet + Goerli
 
 ## Analytics
 
@@ -114,7 +116,8 @@ Official resources for Optimism.
 ### Geospatial
 - [Geo Web](https://www.geoweb.network/) - The Geo Web is a public geospatial information network designed for the spatial computing era.
 
-
+## Grants
+- [Optimism Grants Changelog](https://optimismgrants.io/) - Latest updates and changes to the grant programs of the Optimism Collective
 
 # Contribute
 
