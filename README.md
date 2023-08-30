@@ -118,6 +118,8 @@ Official resources for Optimism.
 
 ## Grants
 - [Optimism Grants Changelog](https://optimismgrants.io/) - Latest updates and changes to the grant programs of the Optimism Collective
+- [RetroPGF](https://app.optimism.io/retropgf) - Retroactive Public Goods Funding
+
 
 # Contribute
 
