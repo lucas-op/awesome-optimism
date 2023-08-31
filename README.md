@@ -105,6 +105,7 @@ Official resources for Optimism.
   
 ### Analytics  
 - [Octav](https://octav.fi/) - Free & editable Web3 data analytics platform
+- [Rotki](https://rotki.com/) - Open source portfolio tracker, accounting and analytics tool that protects your privacy
  
 ### DAO
 - [Karma](https://www.karmahq.xyz/) - Integrated DAO toolkit to measure contributions and enhance Governance
