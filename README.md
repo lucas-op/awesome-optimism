@@ -30,13 +30,13 @@ An awesome list about everything related to <a href='https://raw.githubuserconte
 Official resources for Optimism.
 
 - [Official website](https://www.optimism.io/) - The go-to place for all things related to Optimism.
-- [OP Mainnet Documentation](https://community.optimism.io/) - Documentation for OP Mainnet.
+- [OP Mainnet Documentation](https://community.optimism.io/) - Developer Documentation
 - [OP Stack Documentation](https://stack.optimism.io/) - Documentation for OP Stack.
 - [Optimism Foundation Twitter](https://twitter.com/optimismFND) - Official account of the Optimism Foundation.
 - [Optimism Goverance Twitter](https://twitter.com/OptimismGov) - The official Optimism Governance account.
 - [OP Labs Twitter](https://twitter.com/OPLabsPBC) - The official OP Labs account.
 - [Optimism Collective Mirror](https://optimism.mirror.xyz/) - Articles by the Optimism Collective
-- [OP Labs Blog](https://blog.oplabs.co/) Blog page by OP Labs
+- [OP Labs Blog](https://blog.oplabs.co/) Technical blog
 - [Optimism Discord](https://discord.gg/optimism) - Announcements, general iscussion and support
 - [Governance Forum](https://gov.optimism.io/) - Goverance Proposals and Grants Proposals
 - [OP Mainnet Status](https://status.optimism.io/) - Status updates for Optimism Mainnet + Goerli
