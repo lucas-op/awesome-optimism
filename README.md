@@ -103,7 +103,8 @@ Official resources for Optimism.
 ### DeFi
 - [Let's get HAI](https://www.letsgethai.com/#/) - Multi-collateral floating-peg stablecoin native to Optimism
 - [Kwenta](https://kwenta.eth.limo/) - Decentralized derivatives trading platform offering real-world and on-chain synthetic assets.
-  
+- [Extra Finance](https://app.extrafi.io/) - Community-driven lending & leveraged yield farming protocol.
+
 ### Portfolio Tracker  
 - [Octav](https://octav.fi/) - Free & editable Web3 data analytics platform
 - [Rotki](https://rotki.com/) - Open source portfolio tracker, accounting and analytics tool that protects your privacy
