@@ -118,6 +118,11 @@ Official resources for Optimism.
 - [Attestation Station](https://optimism.easscan.org/) - Build schemas, query, and submit attestations
 - [Clique](https://clique.social/) - Identity oracles connecting web2 and web3
 
+### Social
+- [Farcaster](https://www.farcaster.xyz/) - A protocol for decentralized social apps
+
+
+
 ### Geospatial
 - [Geo Web](https://www.geoweb.network/) - The Geo Web is a public geospatial information network designed for the spatial computing era.
 
