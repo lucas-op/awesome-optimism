@@ -103,7 +103,7 @@ Official resources for Optimism.
 ### DeFi
 - [Let's get HAI](https://www.letsgethai.com/#/) - Multi-collateral floating-peg stablecoin native to Optimism
   
-### Analytics  
+### Portfolio Tracker  
 - [Octav](https://octav.fi/) - Free & editable Web3 data analytics platform
 - [Rotki](https://rotki.com/) - Open source portfolio tracker, accounting and analytics tool that protects your privacy
  
