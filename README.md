@@ -90,6 +90,10 @@ Official resources for Optimism.
 - [Paradigm MultiFaucet](https://faucet.paradigm.xyz/) 
 - [Coinbase Faucet](https://coinbase.com/faucets/optimism-goerli-faucet)
 - [QuickNode Faucet](https://faucet.quicknode.com/optimism/goerli)
+
+### Development Tools 
+- [Cannon](https://github.com/usecannon/cannon) - Smart contract deployment tool and package manager
+- [simple-op-stack-rollup](https://github.com/0xFableOrg/simple-op-stack-rollup) - Permissionless and open source rollup deployment
   
 ## Projects
 
