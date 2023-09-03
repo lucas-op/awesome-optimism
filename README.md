@@ -20,8 +20,9 @@ An awesome list about everything related to <a href='https://raw.githubuserconte
 5. [OP Stack](#op-stack)
 6. [Tutorials](#tutorials)
 7. [Testnet Faucets](#testnet-faucets)
-8. [Projects](#projects)
-9. [Grants](#grants)
+8. [Development Tools](#deveolpment-tools)
+9. [Projects](#projects)
+10. [Grants](#grants)
 
 
 
@@ -91,7 +92,7 @@ Official resources for Optimism.
 - [Coinbase Faucet](https://coinbase.com/faucets/optimism-goerli-faucet)
 - [QuickNode Faucet](https://faucet.quicknode.com/optimism/goerli)
 
-### Development Tools 
+## Development Tools 
 - [Cannon](https://github.com/usecannon/cannon) - Smart contract deployment tool and package manager
 - [simple-op-stack-rollup](https://github.com/0xFableOrg/simple-op-stack-rollup) - Permissionless and open source rollup deployment
   
