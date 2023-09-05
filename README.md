@@ -137,6 +137,14 @@ Official resources for Optimism.
 - [Optimism Grants Changelog](https://optimismgrants.io/) - Latest updates and changes to the grant programs of the Optimism Collective
 - [RetroPGF](https://app.optimism.io/retropgf) - Retroactive Public Goods Funding
 
+### Base
+
+#### DeFi
+- [Aerodrome](https://aerodrome.finance/) - A central trading and liquidity marketplace on Base.
+
+#### Social
+- [friend.tech](https://www.friend.tech/) - The marketplace for your friends
+
 
 # Contribute
 
