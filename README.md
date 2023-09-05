@@ -13,7 +13,7 @@ An awesome list about everything related to <a href='https://raw.githubuserconte
 
 ## Contents
 
-1. [Official Resources](#documentation)
+1. [Official Resources](#official-resources)
 2. [Analytics](#analytics)
 3. [Blockchain Explorers](#blockchain-explorers)
 4. [Clients](#clients)
@@ -21,11 +21,11 @@ An awesome list about everything related to <a href='https://raw.githubuserconte
 6. [Tutorials](#tutorials)
 7. [Research](#research)
 8. [Testnet Faucets](#testnet-faucets)
-9. [Development Tools](#deveolpment-tools)
+9. [Development Tools](#development-tools)
 10. [Projects](#projects)
-    * [OP Projects](#op)
+    * [OP Projects](#op-mainnet)
     * [Base Projects](#base)
-    * [Public Goods Network Projects](#puvlic-goods-network)
+    * [Public Goods Network Projects](#public-goods-network)
     * [Zora Projects](#zora)
 11. [Grants](#grants)
 
@@ -46,6 +46,8 @@ Official resources for Optimism.
 - [Optimism Discord](https://discord.gg/optimism) - Announcements, general iscussion and support
 - [Governance Forum](https://gov.optimism.io/) - Goverance Proposals and Grants Proposals
 - [OP Mainnet Status](https://status.optimism.io/) - Status updates for Optimism Mainnet + Goerli
+- [Reddit](https://www.reddit.com/r/optimismCollective/) - Optimism Collective forum and threads
+- [Github](https://github.com/ethereum-optimism) - Open source code from Optimism Labs (includes op-geth, relayer, tutorials, analytics, and more)
 
 ## Analytics
 
@@ -84,6 +86,9 @@ Official resources for Optimism.
 - [Lyra Finance](https://www.lyra.finance/) - Options protocol launching V2 with "Lyra Chain" on OP Stack for high-throughput, low-latency, and low-cost transactions.
 - [Mode Network](https://www.mode.network/) - Network built on OP Stack with contract revenue sharing incentives at the protocol layer.
 - [Debank Chain](https://github.com/DeBankDeFi/DeBankChain) - Layer 2 Blockchain for Social Engagement.
+- [opBNB](https://opbnb.bnbchain.org/en) - Optimism Rollup deployment on BSC for increased throughput.
+- [Conduit](https://conduit.xyz/) - One-click Optimistic Rollup deployment solution.
+- [Mina](https://minaprotocol.com/) - Adding ZK proofs to Optimism's fault proof stack to create ZK-Optimistic hybrid rollups.
 
 ## Tutorials
 
@@ -94,8 +99,12 @@ Official resources for Optimism.
 
 ## Research
 
-- [Cannon Fault Proof System](https://norswap.com/cannon-intro/) - Explanation of the Cannon fault proof system
-- [Optimism Bedrock vs Arbitrum Nitro](https://norswap.com/bedrock-vs-nitro/) - Breakdown of the differences between Optimism Bedrock  and Arbitrum Nitro
+- [Cannon Fault Proof System](https://norswap.com/cannon-intro/) (Mar '22)- Explanation of the Cannon fault proof system
+- [OP Airdrop Analysis](https://members.delphidigital.io/reports/was-optimisms-airdrop-a-success) (Sep '22) - Delphi Digital's analysis of Optimism's first airdrop
+- [Optimism Bedrock vs Arbitrum Nitro](https://norswap.com/bedrock-vs-nitro/) (Oct '22)- Breakdown of the differences between Optimism Bedrock  and Arbitrum Nitro
+- [Research Note](https://woodstock-research.notion.site/Optimism-105557d5bb1d43a39423e40a49f27585?pvs=4) (Mar '23) - An overview of Optimism's technology, governance, token, roadmap, team, funding, and ecosystem by [Woodstock Fund](https://woodstockfund.com/)
+- [OP Stack Report](https://messari.io/report/scaling-ethereum-with-the-op-stack) (Mar '23) - Messari's report on OP Stack and its adoption
+- [Superchain and the Rise of Rollups](https://messari.io/report/into-the-superchain-the-rise-of-ethereum-centric-rollup-ecosystems) (Apr '23) - Messari's report on Optimism's Superchain and business model for rollups
 
 ## Testnet Faucets
 
