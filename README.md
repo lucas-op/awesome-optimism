@@ -100,37 +100,37 @@ Official resources for Optimism.
   
 ## Projects
 
-### Naming Service  
+### OP Mainnet
+
+#### Naming Service  
 - [OptiNames](https://optinames.xyz/) - ENS Subdomain on Optimism L2.
 
-### Gaming
+#### Gaming
 - [Chaintrap Builders](https://www.polysensus.com/) - Bringing a simple dungeon game to Optimism
 - [Another World](https://anotherworld.gg/) - P2E open world for NFT IPs and adventures
 
-### DeFi
+#### DeFi
 - [Let's get HAI](https://www.letsgethai.com/#/) - Multi-collateral floating-peg stablecoin native to Optimism
 - [Kwenta](https://kwenta.eth.limo/) - Decentralized derivatives trading platform offering real-world and on-chain synthetic assets.
 - [Extra Finance](https://app.extrafi.io/) - Community-driven lending & leveraged yield farming protocol.
 - [Velodrome](https://app.velodrome.finance/) - AMM based on Solidly
 
-### Portfolio Tracker  
+#### Portfolio Tracker  
 - [Octav](https://octav.fi/) - Free & editable Web3 data analytics platform
 - [Rotki](https://rotki.com/) - Open source portfolio tracker, accounting and analytics tool that protects your privacy
  
-### DAO
+#### DAO
 - [Karma](https://www.karmahq.xyz/) - Integrated DAO toolkit to measure contributions and enhance Governance
 - [DAOstar](https://daostar.org/) - DAO Onboarding & Attestation List
   
-### Attestations  
+#### Attestations  
 - [Attestation Station](https://optimism.easscan.org/) - Build schemas, query, and submit attestations
 - [Clique](https://clique.social/) - Identity oracles connecting web2 and web3
 
-### Social
+#### Social
 - [Farcaster](https://www.farcaster.xyz/) - A protocol for decentralized social apps
 
-
-
-### Geospatial
+#### Geospatial
 - [Geo Web](https://www.geoweb.network/) - The Geo Web is a public geospatial information network designed for the spatial computing era.
 
 ## Grants
