@@ -19,9 +19,10 @@ An awesome list about everything related to <a href='https://raw.githubuserconte
 4. [Clients](#clients)
 5. [OP Stack](#op-stack)
 6. [Tutorials](#tutorials)
-7. [Testnet Faucets](#testnet-faucets)
-8. [Development Tools](#deveolpment-tools)
-9. [Projects](#projects)
+7. [Research](#research)
+8. [Testnet Faucets](#testnet-faucets)
+9. [Development Tools](#deveolpment-tools)
+10. [Projects](#projects)
     * [OP Projects](#op)
     * [Base Projects](#base)
     * [Public Goods Network Projects](#puvlic-goods-network)
@@ -90,6 +91,11 @@ Official resources for Optimism.
 - [Deploy a basic contract](https://github.com/ethereum-optimism/optimism-tutorial/tree/main/getting-started) - Basics of OP Mainnet development
 - [Building your project](https://github.com/ethereum-optimism/optimism-tutorial) - Tutorials put together by the Optimism community
 - [Developer Videos](https://community.optimism.io/docs/developers/media/#kelvin-interviews-ethdenver) - Collection of developer videos
+
+## Research
+
+- [Cannon Fault Proof System](https://norswap.com/cannon-intro/) - Explanation of the Cannon fault proof system
+- [Optimism Bedrock vs Arbitrum Nitro](https://norswap.com/bedrock-vs-nitro/) - Breakdown of the differences between Optimism Bedrock  and Arbitrum Nitro
 
 ## Testnet Faucets
 
