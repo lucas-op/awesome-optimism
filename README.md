@@ -22,10 +22,10 @@ An awesome list about everything related to <a href='https://raw.githubuserconte
 7. [Testnet Faucets](#testnet-faucets)
 8. [Development Tools](#deveolpment-tools)
 9. [Projects](#projects)
-    * [OP Projects](#op-projects)
-    * [Base Projects](#base-projects)
-    * [Public Goods Network Projects](#puvlic-goods-network-projects)
-    * [Zora Projects](#zora-projects)
+    * [OP Projects](#op)
+    * [Base Projects](#base)
+    * [Public Goods Network Projects](#puvlic-goods-network)
+    * [Zora Projects](#zora)
 11. [Grants](#grants)
 
 
