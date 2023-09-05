@@ -24,6 +24,8 @@ An awesome list about everything related to <a href='https://raw.githubuserconte
 9. [Projects](#projects)
     * [OP Projects](#op-projects)
     * [Base Projects](#base-projects)
+    * [Public Goods Network Projects](#puvlic-goods-network-projects)
+    * [Zora Projects](#zora-projects)
 11. [Grants](#grants)
 
 
@@ -142,6 +144,16 @@ Official resources for Optimism.
 
 #### Social
 - [friend.tech](https://www.friend.tech/) - The marketplace for your friends
+
+### Public Goods Network
+
+#### Funding
+- [Gitcoin](https://www.gitcoin.co/) - Empowering communities to fund, build, & protect what matters
+
+### Zora
+
+#### NFT
+- [mint.fun](https://mint.fun/) - Spots freshly minted tokens and present all known minting options to you.
 
 ## Grants
 - [Optimism Grants Changelog](https://optimismgrants.io/) - Latest updates and changes to the grant programs of the Optimism Collective
