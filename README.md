@@ -22,7 +22,9 @@ An awesome list about everything related to <a href='https://raw.githubuserconte
 7. [Testnet Faucets](#testnet-faucets)
 8. [Development Tools](#deveolpment-tools)
 9. [Projects](#projects)
-10. [Grants](#grants)
+    * [OP Projects](#op-projects)
+    * [Base Projects](#base-projects)
+11. [Grants](#grants)
 
 
 
@@ -133,10 +135,6 @@ Official resources for Optimism.
 #### Geospatial
 - [Geo Web](https://www.geoweb.network/) - The Geo Web is a public geospatial information network designed for the spatial computing era.
 
-## Grants
-- [Optimism Grants Changelog](https://optimismgrants.io/) - Latest updates and changes to the grant programs of the Optimism Collective
-- [RetroPGF](https://app.optimism.io/retropgf) - Retroactive Public Goods Funding
-
 ### Base
 
 #### DeFi
@@ -144,6 +142,10 @@ Official resources for Optimism.
 
 #### Social
 - [friend.tech](https://www.friend.tech/) - The marketplace for your friends
+
+## Grants
+- [Optimism Grants Changelog](https://optimismgrants.io/) - Latest updates and changes to the grant programs of the Optimism Collective
+- [RetroPGF](https://app.optimism.io/retropgf) - Retroactive Public Goods Funding
 
 
 # Contribute
