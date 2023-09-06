@@ -134,6 +134,9 @@ Official resources for Optimism.
 - [Extra Finance](https://app.extrafi.io/) - Community-driven lending & leveraged yield farming protocol.
 - [Velodrome](https://app.velodrome.finance/) - AMM based on Solidly
 
+#### Prediction Markets
+- [Thales](https://thalesmarket.io/) - Allows the creation of peer-to-peer parimutuel markets that anyone can join.
+
 #### Portfolio Tracker  
 - [Octav](https://octav.fi/) - Free & editable Web3 data analytics platform
 - [Rotki](https://rotki.com/) - Open source portfolio tracker, accounting and analytics tool that protects your privacy
