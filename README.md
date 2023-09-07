@@ -163,6 +163,9 @@ Official resources for Optimism.
 #### Social
 - [friend.tech](https://www.friend.tech/) - The marketplace for your friends
 
+#### NFT
+- [BasePaint](https://basepaint.xyz/) - Collaborative pixel art where the artist can earn rewards from mints.
+
 ### Public Goods Network
 
 #### Funding
