@@ -159,6 +159,7 @@ Official resources for Optimism.
 
 #### DeFi
 - [Aerodrome](https://aerodrome.finance/) - A central trading and liquidity marketplace on Base.
+- [AlienBase](https://www.alienbase.xyz/) - Base-native DEX
 
 #### Social
 - [friend.tech](https://www.friend.tech/) - The marketplace for your friends
