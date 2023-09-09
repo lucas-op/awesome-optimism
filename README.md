@@ -125,6 +125,7 @@ Official resources for Optimism.
 
 #### Naming Service  
 - [OptiNames](https://optinames.xyz/) - ENS Subdomain on Optimism L2.
+- [Wildcards Protocol](https://github.com/Wildcards-Protocol) - Linking ENS domains to Optimism NFT collections
 
 #### Gaming
 - [Chaintrap Builders](https://www.polysensus.com/) - Bringing a simple dungeon game to Optimism
