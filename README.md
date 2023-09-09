@@ -28,6 +28,7 @@ An awesome list about everything related to <a href='https://raw.githubuserconte
     * [Public Goods Network Projects](#public-goods-network)
     * [Zora Projects](#zora)
 11. [Grants](#grants)
+12. [Newsletter](#newsletter)
 
 
 
@@ -183,8 +184,10 @@ Official resources for Optimism.
 - [Optimism Grants Changelog](https://optimismgrants.io/) - Latest updates and changes to the grant programs of the Optimism Collective
 - [RetroPGF](https://app.optimism.io/retropgf) - Retroactive Public Goods Funding
 
-
-# Contribute
+## Newsletter
+- [The 🔵Optimist Newsletter](https://optimismbysublidefi.substack.com/) - Bi-weekly updates on Optimism
+  
+## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
