@@ -136,6 +136,7 @@ Official resources for Optimism.
 - [Kwenta](https://kwenta.eth.limo/) - Decentralized derivatives trading platform offering real-world and on-chain synthetic assets.
 - [Extra Finance](https://app.extrafi.io/) - Community-driven lending & leveraged yield farming protocol.
 - [Velodrome](https://app.velodrome.finance/) - AMM based on Solidly
+- [Exactly](https://exact.ly/) - Lending protocol providing an autonomous fixed and variable interest rate market
 
 #### Prediction Markets
 - [Thales](https://thalesmarket.io/) - Allows the creation of peer-to-peer parimutuel markets that anyone can join.
