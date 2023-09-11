@@ -102,7 +102,7 @@ Official resources for Optimism.
 
 ## Research
 
-- [(Almost) Everything you need to know about Optimistic Rollup](https://www.paradigm.xyz/2021/01/almost-everything-you-need-to-know-about-optimistic-rollup) (Jan '21)- overview of Optimistic Rollup. addressing its principles, benefits, and implementation details.
+- [(Almost) Everything you need to know about Optimistic Rollup](https://www.paradigm.xyz/2021/01/almost-everything-you-need-to-know-about-optimistic-rollup) (Jan '21)- Builds up the design for optimistic rollups from first principles, addressing various perceived issues as they arise
 - [Cannon Fault Proof System](https://norswap.com/cannon-intro/) (Mar '22)- Explanation of the Cannon fault proof system
 - [OP Airdrop Analysis](https://members.delphidigital.io/reports/was-optimisms-airdrop-a-success) (Sep '22) - Delphi Digital's analysis of Optimism's first airdrop
 - [Optimism Bedrock vs Arbitrum Nitro](https://norswap.com/bedrock-vs-nitro/) (Oct '22)- Breakdown of the differences between Optimism Bedrock  and Arbitrum Nitro
