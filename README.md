@@ -90,6 +90,7 @@ Official resources for Optimism.
 - [opBNB](https://opbnb.bnbchain.org/en) - Optimism Rollup deployment on BSC for increased throughput.
 - [Conduit](https://conduit.xyz/) - One-click Optimistic Rollup deployment solution.
 - [Mina](https://minaprotocol.com/) - Adding ZK proofs to Optimism's fault proof stack to create ZK-Optimistic hybrid rollups.
+- [Kroma](https://github.com/kroma-network/) - Universal ZK Rollup based on the Optimism Bedrock architecture.
 
 ## Tutorials
 
