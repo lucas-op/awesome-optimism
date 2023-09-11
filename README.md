@@ -54,6 +54,7 @@ Official resources for Optimism.
 
 - [OP Analytics](https://github.com/ethereum-optimism/op-analytics) - Onchain Data, Utilities, References, and other Analytics on Optimism Mainnet
 - [Optimism Overview Dashboard](https://dune.com/Marcov/Optimism-Ethereum) - General OP Mainnet dashboard
+- [L2beat](https://l2beat.com/) - Comparison of current state of various L2s
 
 
 ## Blockchain Explorers
