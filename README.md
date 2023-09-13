@@ -72,7 +72,9 @@ Official resources for Optimism.
   
 ## OP Stack
 
+- [Aevo](https://www.aevo.xyz/) - The canonical chain for Aevo Exchange, a decentralized options exchange
 - [Base](https://base.org/) - Coinbase's Layer 2 network offering scalability and faster transactions.
+- [Celo](https://celo.org/) - A Layer 1 mirgrating to an OP Stack-based Ethereum Layer 2. Includes data availability layer powered by EigenLayer.
 - [Kinto](https://kinto.xyz/) - KYC DeFi network focused on safe and insured decentralized financial services.
 - [OPCraft](https://opcraft.mud.dev/) - On-chain virtual world games with high throughput and faster block generation.
 - [UniDex](https://www.unidex.exchange/) - Multi-chain aggregator with low gas costs and secure transactions.
@@ -82,8 +84,6 @@ Official resources for Optimism.
 - [Manta Pacific](https://pacific.manta.network/) - EVM-native modular execution layer for wide ZK applications adoption, with Manta’s universal circuit and zk interface.
 - [Mantle Network](https://www.mantle.xyz/) - Modular Ethereum Layer 2 network on OP Stack supported by Bybit.
 - [Loot Chain](https://lootchain.com/) - A dedicated layer 2 blockchain for the Loot community. Uses Polygon for data availability layer.
-- [Celo](https://celo.org/) - A Layer 1 mirgrating to an OP Stack-based Ethereum Layer 2. Includes data availability layer powered by EigenLayer.
-- [Aevo](https://www.aevo.xyz/) - The canonical chain for Aevo Exchange, a decentralized options exchange
 - [Public Goods Network (PGN)](https://publicgoods.network/) - Layer 2 network supported by Gitcoin that works to create durable and recurring funding for public goods.
 - [Lyra Finance](https://www.lyra.finance/) - Options protocol launching V2 with "Lyra Chain" on OP Stack for high-throughput, low-latency, and low-cost transactions.
 - [Mode Network](https://www.mode.network/) - Network built on OP Stack with contract revenue sharing incentives at the protocol layer.
