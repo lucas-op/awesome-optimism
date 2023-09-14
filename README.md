@@ -141,7 +141,10 @@ Official resources for Optimism.
 - [Extra Finance](https://app.extrafi.io/) - Community-driven lending & leveraged yield farming protocol.
 - [Velodrome](https://app.velodrome.finance/) - AMM based on Solidly
 - [Exactly](https://exact.ly/) - Lending protocol providing an autonomous fixed and variable interest rate market
-- [Polynominal](https://trade.polynomial.fi/) - Decentralised derivative trading exchange powered by the Synthetix protocol 
+- [Polynominal](https://trade.polynomial.fi/) - Decentralised derivative trading exchange powered by the Synthetix protocol
+- [Pika](https://www.pikaprotocol.com/) - A perpetual Swap Exchange
+
+
 
 #### Prediction Markets
 - [Thales](https://thalesmarket.io/) - Allows the creation of peer-to-peer parimutuel markets that anyone can join.
