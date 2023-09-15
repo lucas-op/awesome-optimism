@@ -123,6 +123,7 @@ Official resources for Optimism.
 ## Development Tools 
 - [Cannon](https://github.com/usecannon/cannon) - Smart contract deployment tool and package manager
 - [simple-op-stack-rollup](https://github.com/0xFableOrg/simple-op-stack-rollup) - Permissionless and open source rollup deployment
+- [Covalent](https://www.covalenthq.com/) - Blockchain data indexing
   
 ## Projects
 
