@@ -192,6 +192,7 @@ Official resources for Optimism.
 
 #### NFT
 - [mint.fun](https://mint.fun/) - Spots freshly minted tokens and present all known minting options to you.
+- [Holograph](https://app.holograph.xyz/) - Omnichain NFT infrastructure.
 
 ## Grants
 - [Optimism Grants Changelog](https://optimismgrants.io/) - Latest updates and changes to the grant programs of the Optimism Collective
