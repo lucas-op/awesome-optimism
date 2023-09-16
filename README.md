@@ -78,8 +78,10 @@ Official resources for Optimism.
 ### Active
 - [Aevo](https://www.aevo.xyz/) - The canonical chain for Aevo Exchange, a decentralized options exchange
 - [Base](https://base.org/) - Coinbase's Layer 2 network offering scalability and faster transactions.
+- [Manta Pacific](https://pacific.manta.network/) - EVM-native modular execution layer for wide ZK applications adoption, with Manta’s universal circuit and zk interface.
 - [Mantle Network](https://www.mantle.xyz/) - Modular Ethereum Layer 2 network on OP Stack supported by Bybit.
 - [opBNB](https://opbnb.bnbchain.org/en) - Optimism Rollup deployment on BSC for increased throughput.
+- [OP Mainnet](https://www.optimism.io/) - EVM-equivalent Optimistic Rollup chain.
 - [Public Goods Network (PGN)](https://publicgoods.network/) - Layer 2 network supported by Gitcoin that works to create durable and recurring funding for public goods.
 - [Zora Network](https://zora.co/) - Layer 2 integration with Zora NFT trading market, attracting artists and collectors.
 
@@ -90,7 +92,6 @@ Official resources for Optimism.
 - [UniDex](https://www.unidex.exchange/) - Multi-chain aggregator with low gas costs and secure transactions.
 - [Worldcoin](https://worldcoin.org/) - Migration of World App wallet to OP mainnet and partnership with Optimism Collective.
 - [Keystone](https://github.com/curio-research/keystone) - Full-chain game engine for enhanced gaming experience on the OP Stack.
-- [Manta Pacific](https://pacific.manta.network/) - EVM-native modular execution layer for wide ZK applications adoption, with Manta’s universal circuit and zk interface.
 - [Loot Chain](https://lootchain.com/) - A dedicated layer 2 blockchain for the Loot community. Uses Polygon for data availability layer.
 - [Lyra Finance](https://www.lyra.finance/) - Options protocol launching V2 with "Lyra Chain" on OP Stack for high-throughput, low-latency, and low-cost transactions.
 - [Mode Network](https://www.mode.network/) - Network built on OP Stack with contract revenue sharing incentives at the protocol layer.
