@@ -112,6 +112,7 @@ Official resources for Optimism.
 - [Research Note](https://woodstock-research.notion.site/Optimism-105557d5bb1d43a39423e40a49f27585?pvs=4) (Mar '23) - An overview of Optimism's technology, governance, token, roadmap, team, funding, and ecosystem by [Woodstock Fund](https://woodstockfund.com/)
 - [OP Stack Report](https://messari.io/report/scaling-ethereum-with-the-op-stack) (Mar '23) - Messari's report on OP Stack and its adoption
 - [Superchain and the Rise of Rollups](https://messari.io/report/into-the-superchain-the-rise-of-ethereum-centric-rollup-ecosystems) (Apr '23) - Messari's report on Optimism's Superchain and business model for rollups
+- [The Rollup Multiverse](https://dba.mirror.xyz/hyRKK4_PDrO2FKpF6eIRvnq8sA_Mx7dXtQf_MWzSWTU) (May '23) - Understanding the distinction between rollups and bridge mechanisms, with a focus on Optimism as an example.
 
 ## Testnet Faucets
 
