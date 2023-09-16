@@ -80,7 +80,6 @@ Official resources for Optimism.
 - [Aevo](https://www.aevo.xyz/) - The canonical chain for Aevo Exchange, a decentralized options exchange
 - [Base](https://base.org/) - Coinbase's Layer 2 network offering scalability and faster transactions.
 - [Manta Pacific](https://pacific.manta.network/) - EVM-native modular execution layer for wide ZK applications adoption, with Manta’s universal circuit and zk interface.
-- [Mantle Network](https://www.mantle.xyz/) - Modular Ethereum Layer 2 network on OP Stack supported by Bybit.
 - [opBNB](https://opbnb.bnbchain.org/en) - Optimism Rollup deployment on BSC for increased throughput.
 - [OP Mainnet](https://www.optimism.io/) - EVM-equivalent Optimistic Rollup chain.
 - [Public Goods Network (PGN)](https://publicgoods.network/) - Layer 2 network supported by Gitcoin that works to create durable and recurring funding for public goods.
