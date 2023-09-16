@@ -79,6 +79,7 @@ Official resources for Optimism.
 ### Active
 - [Aevo](https://www.aevo.xyz/) - The canonical chain for Aevo Exchange, a decentralized options exchange
 - [Base](https://base.org/) - Coinbase's Layer 2 network offering scalability and faster transactions.
+- [Kroma](https://github.com/kroma-network/) - Universal ZK Rollup based on the Optimism Bedrock architecture.
 - [Manta Pacific](https://pacific.manta.network/) - EVM-native modular execution layer for wide ZK applications adoption, with Manta’s universal circuit and zk interface.
 - [opBNB](https://opbnb.bnbchain.org/en) - Optimism Rollup deployment on BSC for increased throughput.
 - [OP Mainnet](https://www.optimism.io/) - EVM-equivalent Optimistic Rollup chain.
@@ -98,7 +99,6 @@ Official resources for Optimism.
 - [Debank Chain](https://github.com/DeBankDeFi/DeBankChain) - Layer 2 Blockchain for Social Engagement.
 - [Conduit](https://conduit.xyz/) - One-click Optimistic Rollup deployment solution.
 - [Mina](https://minaprotocol.com/) - Adding ZK proofs to Optimism's fault proof stack to create ZK-Optimistic hybrid rollups.
-- [Kroma](https://github.com/kroma-network/) - Universal ZK Rollup based on the Optimism Bedrock architecture.
 - [Synpase](https://docs.synapseprotocol.com/synapse-chain/synapse-chain) - Natively interchain rollup, able to communicate other supported chains by the Synapse Interchain Network.
 
 
