@@ -18,17 +18,19 @@ An awesome list about everything related to <a href='https://raw.githubuserconte
 3. [Blockchain Explorers](#blockchain-explorers)
 4. [Clients](#clients)
 5. [OP Stack](#op-stack)
-6. [Tutorials](#tutorials)
-7. [Research](#research)
-8. [Testnet Faucets](#testnet-faucets)
-9. [Development Tools](#development-tools)
-10. [Projects](#projects)
+   * [Active](#active)
+   * [Upcoming](#upcoming)
+7. [Tutorials](#tutorials)
+8. [Research](#research)
+9. [Testnet Faucets](#testnet-faucets)
+10. [Development Tools](#development-tools)
+11. [Projects](#projects)
     * [OP Projects](#op-mainnet)
     * [Base Projects](#base)
     * [Public Goods Network Projects](#public-goods-network)
     * [Zora Projects](#zora)
-11. [Grants](#grants)
-12. [Newsletter](#newsletter)
+12. [Grants](#grants)
+13. [Newsletter](#newsletter)
 
 
 
@@ -73,23 +75,26 @@ Official resources for Optimism.
   
 ## OP Stack
 
+### Active
 - [Aevo](https://www.aevo.xyz/) - The canonical chain for Aevo Exchange, a decentralized options exchange
 - [Base](https://base.org/) - Coinbase's Layer 2 network offering scalability and faster transactions.
+- [Mantle Network](https://www.mantle.xyz/) - Modular Ethereum Layer 2 network on OP Stack supported by Bybit.
+- [opBNB](https://opbnb.bnbchain.org/en) - Optimism Rollup deployment on BSC for increased throughput.
+- [Public Goods Network (PGN)](https://publicgoods.network/) - Layer 2 network supported by Gitcoin that works to create durable and recurring funding for public goods.
+- [Zora Network](https://zora.co/) - Layer 2 integration with Zora NFT trading market, attracting artists and collectors.
+
+### Upcoming
 - [Celo](https://celo.org/) - A Layer 1 mirgrating to an OP Stack-based Ethereum Layer 2. Includes data availability layer powered by EigenLayer.
 - [Kinto](https://kinto.xyz/) - KYC DeFi network focused on safe and insured decentralized financial services.
 - [OPCraft](https://opcraft.mud.dev/) - On-chain virtual world games with high throughput and faster block generation.
 - [UniDex](https://www.unidex.exchange/) - Multi-chain aggregator with low gas costs and secure transactions.
 - [Worldcoin](https://worldcoin.org/) - Migration of World App wallet to OP mainnet and partnership with Optimism Collective.
 - [Keystone](https://github.com/curio-research/keystone) - Full-chain game engine for enhanced gaming experience on the OP Stack.
-- [Zora Network](https://zora.co/) - Layer 2 integration with Zora NFT trading market, attracting artists and collectors.
 - [Manta Pacific](https://pacific.manta.network/) - EVM-native modular execution layer for wide ZK applications adoption, with Manta’s universal circuit and zk interface.
-- [Mantle Network](https://www.mantle.xyz/) - Modular Ethereum Layer 2 network on OP Stack supported by Bybit.
 - [Loot Chain](https://lootchain.com/) - A dedicated layer 2 blockchain for the Loot community. Uses Polygon for data availability layer.
-- [Public Goods Network (PGN)](https://publicgoods.network/) - Layer 2 network supported by Gitcoin that works to create durable and recurring funding for public goods.
 - [Lyra Finance](https://www.lyra.finance/) - Options protocol launching V2 with "Lyra Chain" on OP Stack for high-throughput, low-latency, and low-cost transactions.
 - [Mode Network](https://www.mode.network/) - Network built on OP Stack with contract revenue sharing incentives at the protocol layer.
 - [Debank Chain](https://github.com/DeBankDeFi/DeBankChain) - Layer 2 Blockchain for Social Engagement.
-- [opBNB](https://opbnb.bnbchain.org/en) - Optimism Rollup deployment on BSC for increased throughput.
 - [Conduit](https://conduit.xyz/) - One-click Optimistic Rollup deployment solution.
 - [Mina](https://minaprotocol.com/) - Adding ZK proofs to Optimism's fault proof stack to create ZK-Optimistic hybrid rollups.
 - [Kroma](https://github.com/kroma-network/) - Universal ZK Rollup based on the Optimism Bedrock architecture.
