@@ -99,6 +99,7 @@ Official resources for Optimism.
 - [Debank Chain](https://github.com/DeBankDeFi/DeBankChain) - Layer 2 Blockchain for Social Engagement.
 - [Conduit](https://conduit.xyz/) - One-click Optimistic Rollup deployment solution.
 - [Mina](https://minaprotocol.com/) - Adding ZK proofs to Optimism's fault proof stack to create ZK-Optimistic hybrid rollups.
+- [StealthChain](https://stealthchain.org/) - Decentralized, Ethereum-equivalent OP Stack Rollup.
 - [Synpase](https://docs.synapseprotocol.com/synapse-chain/synapse-chain) - Natively interchain rollup, able to communicate other supported chains by the Synapse Interchain Network.
 
 
