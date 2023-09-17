@@ -51,7 +51,6 @@ Official resources for Optimism.
 - [OP Labs Blog](https://blog.oplabs.co/) Blog for more technical and engineering-focused content
 - [Optimism Discord](https://discord.gg/optimism) - Announcements, general iscussion and support
 - [Reddit](https://www.reddit.com/r/optimismCollective/) - Optimism Collective forum and threads
-- [Github](https://github.com/ethereum-optimism) - Open source code from Optimism Labs (includes op-geth, relayer, tutorials, analytics, and more)
 
 ## Analytics
 
