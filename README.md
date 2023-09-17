@@ -21,16 +21,17 @@ An awesome list about everything related to <a href='https://raw.githubuserconte
    * [Active](#active)
    * [Upcoming](#upcoming)
 7. [Tutorials](#tutorials)
-8. [Research](#research)
-9. [Testnet Faucets](#testnet-faucets)
-10. [Development Tools](#development-tools)
-11. [Projects](#projects)
+8. [Videos](#videos)
+9. [Research](#research)
+10. [Testnet Faucets](#testnet-faucets)
+11. [Development Tools](#development-tools)
+12. [Projects](#projects)
     * [OP Projects](#op-mainnet)
     * [Base Projects](#base)
     * [Public Goods Network Projects](#public-goods-network)
     * [Zora Projects](#zora)
-12. [Grants](#grants)
-13. [Newsletter](#newsletter)
+13. [Grants](#grants)
+14. [Newsletter](#newsletter)
 
 
 
