@@ -41,14 +41,17 @@ Official resources for Optimism.
 - [Official website](https://www.optimism.io/) - The go-to place for all things related to Optimism.
 - [OP Mainnet Documentation](https://community.optimism.io/) - Developer Documentation
 - [OP Stack Documentation](https://stack.optimism.io/) - Documentation for OP Stack.
+- [OP Mainnet Status](https://status.optimism.io/) - Status updates for Optimism Mainnet + Goerli
+- [Github](https://github.com/ethereum-optimism) - Open source code from Optimism Labs (includes op-geth, relayer, tutorials, analytics, and more)
+
 - [Optimism Foundation Twitter](https://twitter.com/optimismFND) - Official account of the Optimism Foundation.
 - [Optimism Goverance Twitter](https://twitter.com/OptimismGov) - The official Optimism Governance account.
 - [OP Labs Twitter](https://twitter.com/OPLabsPBC) - The official OP Labs account.
+
+- [Governance Forum](https://gov.optimism.io/) - Goverance Proposals and Grants Proposals
 - [Optimism Collective Mirror](https://optimism.mirror.xyz/) - Articles by the Optimism Collective 
 - [OP Labs Blog](https://blog.oplabs.co/) Blog for more technical and engineering-focused content
 - [Optimism Discord](https://discord.gg/optimism) - Announcements, general iscussion and support
-- [Governance Forum](https://gov.optimism.io/) - Goverance Proposals and Grants Proposals
-- [OP Mainnet Status](https://status.optimism.io/) - Status updates for Optimism Mainnet + Goerli
 - [Reddit](https://www.reddit.com/r/optimismCollective/) - Optimism Collective forum and threads
 - [Github](https://github.com/ethereum-optimism) - Open source code from Optimism Labs (includes op-geth, relayer, tutorials, analytics, and more)
 
