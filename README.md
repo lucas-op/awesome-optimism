@@ -108,7 +108,10 @@ Official resources for Optimism.
 - [Simple Optimism Node](https://github.com/smartcontracts/simple-optimism-node) - Learn to run a Optimism node.
 - [Deploy a basic contract](https://github.com/ethereum-optimism/optimism-tutorial/tree/main/getting-started) - Basics of OP Mainnet development
 - [Building your project](https://github.com/ethereum-optimism/optimism-tutorial) - Tutorials put together by the Optimism community
+
+## Videos
 - [Developer Videos](https://community.optimism.io/docs/developers/media/#kelvin-interviews-ethdenver) - Collection of developer videos
+- [How Rollups *actually* work](https://www.youtube.com/watch?v=NKQz9jU0ftg) 
 
 ## Research
 
