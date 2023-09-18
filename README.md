@@ -23,15 +23,14 @@ An awesome list about everything related to <a href='https://raw.githubuserconte
 7. [Tutorials](#tutorials)
 8. [Videos](#videos)
 9. [Research](#research)
-10. [Testnet Faucets](#testnet-faucets)
-11. [Development Tools](#development-tools)
-12. [Projects](#projects)
+10. [Development Tools](#development-tools)
+11. [Projects](#projects)
     * [OP Projects](#op-mainnet)
     * [Base Projects](#base)
     * [Public Goods Network Projects](#public-goods-network)
     * [Zora Projects](#zora)
-13. [Grants](#grants)
-14. [Newsletter](#newsletter)
+12. [Grants](#grants)
+13. [Newsletter](#newsletter)
 
 
 
@@ -124,21 +123,12 @@ Official resources for Optimism.
 - [Superchain and the Rise of Rollups](https://messari.io/report/into-the-superchain-the-rise-of-ethereum-centric-rollup-ecosystems) (Apr '23) - Messari's report on Optimism's Superchain and business model for rollups
 - [The Rollup Multiverse](https://dba.mirror.xyz/hyRKK4_PDrO2FKpF6eIRvnq8sA_Mx7dXtQf_MWzSWTU) (May '23) - Understanding the distinction between rollups and bridge mechanisms, with a focus on Optimism as an example.
 
-## Testnet Faucets
-
-- [Superchain Faucet](https://app.optimism.io/faucet) 
-- [Paradigm MultiFaucet](https://faucet.paradigm.xyz/) 
-- [Coinbase Faucet](https://coinbase.com/faucets/optimism-goerli-faucet)
-- [QuickNode Faucet](https://faucet.quicknode.com/optimism/goerli)
-
 ## Development Tools 
 - [Cannon](https://github.com/usecannon/cannon) - Smart contract deployment tool and package manager
 - [simple-op-stack-rollup](https://github.com/0xFableOrg/simple-op-stack-rollup) - Permissionless and open source rollup deployment
 - [Covalent](https://www.covalenthq.com/) - Blockchain data indexing
 - [Foundry](https://github.com/foundry-rs/foundry) - Toolkit for Ethereum application development written in Rust.
 
-
-  
 ## Projects
 
 ### OP Mainnet
