@@ -88,6 +88,7 @@ Official resources for Optimism.
 - [Zora Network](https://zora.co/) - Layer 2 integration with Zora NFT trading market, attracting artists and collectors.
 
 ### Upcoming
+- [Ancient8](https://ancient8.gg/) - Gaming-focused community-driven Ethereum layer 2 
 - [Celo](https://celo.org/) - A Layer 1 mirgrating to an OP Stack-based Ethereum Layer 2. Includes data availability layer powered by EigenLayer.
 - [Kinto](https://kinto.xyz/) - KYC DeFi network focused on safe and insured decentralized financial services.
 - [OPCraft](https://opcraft.mud.dev/) - On-chain virtual world games with high throughput and faster block generation.
