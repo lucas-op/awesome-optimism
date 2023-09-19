@@ -150,8 +150,9 @@ Official resources for Optimism.
 - [Polynominal](https://trade.polynomial.fi/) - Decentralised derivative trading exchange powered by the Synthetix protocol
 - [Pika](https://www.pikaprotocol.com/) - A perpetual Swap Exchange
 
-
-
+#### Insurance
+- [opencover](https://opencover.com/) - Insurance aggregator that protects against onchain risks.
+  
 #### Prediction Markets
 - [Thales](https://thalesmarket.io/) - Allows the creation of peer-to-peer parimutuel markets that anyone can join.
 
