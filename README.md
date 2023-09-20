@@ -144,11 +144,13 @@ Official resources for Optimism.
 #### DeFi
 - [Let's get HAI](https://www.letsgethai.com/#/) - Multi-collateral floating-peg stablecoin native to Optimism
 - [Kwenta](https://kwenta.eth.limo/) - Decentralized derivatives trading platform offering real-world and on-chain synthetic assets.
+- [Ethos Reserve](https://www.ethos.finance/) - Decentralized lending protocol that allows users to take out interest-free loans against collateral such as BTC and ETH.
 - [Extra Finance](https://app.extrafi.io/) - Community-driven lending & leveraged yield farming protocol.
 - [Velodrome](https://app.velodrome.finance/) - AMM based on Solidly
 - [Exactly](https://exact.ly/) - Lending protocol providing an autonomous fixed and variable interest rate market
 - [Polynominal](https://trade.polynomial.fi/) - Decentralised derivative trading exchange powered by the Synthetix protocol
 - [Pika](https://www.pikaprotocol.com/) - A perpetual Swap Exchange
+
 
 #### Insurance
 - [opencover](https://opencover.com/) - Insurance aggregator that protects against onchain risks.
