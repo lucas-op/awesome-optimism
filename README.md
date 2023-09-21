@@ -209,7 +209,7 @@ Official resources for Optimism.
 
 ## Newsletter
 - [The 🔵Optimist Newsletter](https://optimismbysublidefi.substack.com/) - Bi-weekly updates on Optimism
-- [The OP Superchain Roundup](https://theopsuperchainroundup.substack.com/p/the-op-superchain-roundup-2) - Weekly updates and developments on the OP Superchain Ecosystem
+- [The OP Superchain Roundup](https://theopsuperchainroundup.substack.com/) - Weekly updates and developments on the OP Superchain Ecosystem
   
 ## Contribute
 
