@@ -29,6 +29,7 @@ An awesome list about everything related to <a href='https://raw.githubuserconte
     * [Base Projects](#base)
     * [Public Goods Network Projects](#public-goods-network)
     * [Zora Projects](#zora)
+    * [Manta Pacific Projects](#manta-pacific)
 12. [Grants](#grants)
 13. [Newsletter](#newsletter)
 
@@ -202,6 +203,11 @@ Official resources for Optimism.
 #### NFT
 - [mint.fun](https://mint.fun/) - Spots freshly minted tokens and present all known minting options to you.
 - [Holograph](https://app.holograph.xyz/) - Omnichain NFT infrastructure.
+
+### Manta Pacific
+
+#### DeFi
+- [Aperture](https://app.aperture.finance/swap) - Concentrated liquidity DEX with native LP automation features 
 
 ## Grants
 - [Optimism Grants Council](https://app.charmverse.io/op-grants/page-701220845245208) - Grants Landing Page for Season 4
