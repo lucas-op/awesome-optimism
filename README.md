@@ -129,6 +129,7 @@ Official resources for Optimism.
 - [simple-op-stack-rollup](https://github.com/0xFableOrg/simple-op-stack-rollup) - Permissionless and open source rollup deployment
 - [Covalent](https://www.covalenthq.com/) - Blockchain data indexing
 - [Foundry](https://github.com/foundry-rs/foundry) - Toolkit for Ethereum application development written in Rust.
+- [Hardhat](https://hardhat.org/) - A development environment and framework for building Ethereum smart contracts and dApps.
 
 ## Projects
 
