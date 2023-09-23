@@ -113,7 +113,8 @@ Official resources for Optimism.
 
 ## Videos
 - [Developer Videos](https://community.optimism.io/docs/developers/media/#kelvin-interviews-ethdenver) - Collection of developer videos
-- [How Rollups *actually* work](https://www.youtube.com/watch?v=NKQz9jU0ftg) 
+- [Modular Rollup Theory Through the Lens of the OP Stack](https://www.youtube.com/watch?v=jnVjhp41pcc) (Oct '22)
+- [How Rollups *actually* work](https://www.youtube.com/watch?v=NKQz9jU0ftg) (Mar '23)
 
 ## Research
 
