@@ -130,6 +130,7 @@ Official resources for Optimism.
 - [Covalent](https://www.covalenthq.com/) - Blockchain data indexing
 - [Foundry](https://github.com/foundry-rs/foundry) - Toolkit for Ethereum application development written in Rust.
 - [Hardhat](https://hardhat.org/) - A development environment and framework for building Ethereum smart contracts and dApps.
+- [Wagmi](https://wagmi.sh/) - A collection of React hooks for Ethereum applications to build and fetch functionality from open-source functions.
 
 ## Projects
 
