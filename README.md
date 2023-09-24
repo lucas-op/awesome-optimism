@@ -185,6 +185,7 @@ Official resources for Optimism.
 
 #### Social
 - [Farcaster](https://www.farcaster.xyz/) - A protocol for decentralized social apps
+- [Nested](https://www.farcaster.xyz/) - Decentralized copy trading platform
 
 #### Geospatial
 - [Geo Web](https://www.geoweb.network/) - The Geo Web is a public geospatial information network designed for the spatial computing era.
