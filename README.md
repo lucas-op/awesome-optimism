@@ -24,7 +24,7 @@ An awesome list about everything related to <a href='https://raw.githubuserconte
 8. [Videos](#videos)
 9. [Research](#research)
 10. [Development Tools](#development-tools)
-    * [General](#op-mainnet)
+    * [General](#general)
     * [OP Stack](#base)
 12. [Projects](#projects)
     * [OP Projects](#op-mainnet)
