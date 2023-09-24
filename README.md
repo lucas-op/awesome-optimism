@@ -24,14 +24,16 @@ An awesome list about everything related to <a href='https://raw.githubuserconte
 8. [Videos](#videos)
 9. [Research](#research)
 10. [Development Tools](#development-tools)
-11. [Projects](#projects)
+    * [General](#op-mainnet)
+    * [OP Stack](#base)
+12. [Projects](#projects)
     * [OP Projects](#op-mainnet)
     * [Base Projects](#base)
     * [Public Goods Network Projects](#public-goods-network)
     * [Zora Projects](#zora)
     * [Manta Pacific Projects](#manta-pacific)
-12. [Grants](#grants)
-13. [Newsletter](#newsletter)
+13. [Grants](#grants)
+14. [Newsletter](#newsletter)
 
 
 
@@ -99,7 +101,6 @@ Official resources for Optimism.
 - [Lyra Finance](https://www.lyra.finance/) - Options protocol launching V2 with "Lyra Chain" on OP Stack for high-throughput, low-latency, and low-cost transactions.
 - [Mode Network](https://www.mode.network/) - Network built on OP Stack with contract revenue sharing incentives at the protocol layer.
 - [Debank Chain](https://github.com/DeBankDeFi/DeBankChain) - Layer 2 Blockchain for Social Engagement.
-- [Conduit](https://conduit.xyz/) - One-click Optimistic Rollup deployment solution.
 - [Mina](https://minaprotocol.com/) - Adding ZK proofs to Optimism's fault proof stack to create ZK-Optimistic hybrid rollups.
 - [StealthChain](https://stealthchain.org/) - Decentralized, Ethereum-equivalent OP Stack Rollup.
 - [Synpase](https://docs.synapseprotocol.com/synapse-chain/synapse-chain) - Natively interchain rollup, able to communicate other supported chains by the Synapse Interchain Network.
@@ -126,12 +127,18 @@ Official resources for Optimism.
 - [The Rollup Multiverse](https://dba.mirror.xyz/hyRKK4_PDrO2FKpF6eIRvnq8sA_Mx7dXtQf_MWzSWTU) (May '23) - Understanding the distinction between rollups and bridge mechanisms, with a focus on Optimism as an example.
 
 ## Development Tools 
+
+### General
 - [Cannon](https://github.com/usecannon/cannon) - Smart contract deployment tool and package manager
-- [simple-op-stack-rollup](https://github.com/0xFableOrg/simple-op-stack-rollup) - Permissionless and open source rollup deployment
 - [Covalent](https://www.covalenthq.com/) - Blockchain data indexing
 - [Foundry](https://github.com/foundry-rs/foundry) - Toolkit for Ethereum application development written in Rust.
 - [Hardhat](https://hardhat.org/) - A development environment and framework for building Ethereum smart contracts and dApps.
 - [Wagmi](https://wagmi.sh/) - A collection of React hooks for Ethereum applications to build and fetch functionality from open-source functions.
+
+### OP Stack
+- [AltLayer](https://altlayer.io/) - Decentralized protocol for developers to launch highly elastic application-tailored rollups. 
+- [Conduit](https://conduit.xyz/) - One-click Optimistic Rollup deployment solution.
+- [simple-op-stack-rollup](https://github.com/0xFableOrg/simple-op-stack-rollup) - Permissionless and open source rollup deployment
 
 ## Projects
 
