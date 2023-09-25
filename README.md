@@ -198,6 +198,7 @@ Official resources for Optimism.
 - [AlienBase](https://www.alienbase.xyz/) - Base-native DEX
 - [Avantis](https://www.avantisfi.com/) - Oracle-based synthetic derivatives protocol with up to 100x leverage
 - [BSX](https://www.bsx.exchange/) - Institutional-grade derivatives DEX
+- [Overnight Finance](https://overnight.fi/) - Asset management protocol offering passive yield products based on delta-neutral strategies
 
   
 #### Social
