@@ -162,6 +162,7 @@ Official resources for Optimism.
 - [Exactly](https://exact.ly/) - Lending protocol providing an autonomous fixed and variable interest rate market
 - [Polynominal](https://trade.polynomial.fi/) - Decentralised derivative trading exchange powered by the Synthetix protocol
 - [Pika](https://www.pikaprotocol.com/) - A perpetual Swap Exchange
+- [Sonne Finance](https://sonne.finance/) - Decentralized lending protocol
 - [Synthetix](https://synthetix.io/) - Derivatives liquidity protocol providing the backbone for derivatives trading in DeFi
 - [Lyra](https://www.lyra.finance/) - Decentralized options protocol
 
