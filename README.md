@@ -201,7 +201,9 @@ Official resources for Optimism.
 - [BSX](https://www.bsx.exchange/) - Institutional-grade derivatives DEX
 - [Overnight Finance](https://overnight.fi/) - Asset management protocol offering passive yield products based on delta-neutral strategies
 
-  
+#### Gaming
+- [Parallel](https://parallel.life/) - Sci-Fi Card Game with NFTs
+
 #### Social
 - [friend.tech](https://www.friend.tech/) - The marketplace for your friends
 
