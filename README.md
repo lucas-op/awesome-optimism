@@ -233,6 +233,7 @@ Official resources for Optimism.
 - [RetroPGF](https://app.optimism.io/retropgf) - Retroactive Public Goods Funding
 
 ## Newsletter
+- [The Optimistic Standard](https://us6.campaign-archive.com/home/?u=9727fa8bec4011400e57cafcb&id=ca91042234) - Monthly recap on Optimism
 - [The 🔵Optimist Newsletter](https://optimismbysublidefi.substack.com/) - Bi-weekly updates on Optimism
 - [The OP Superchain Roundup](https://theopsuperchainroundup.substack.com/) - Weekly updates and developments on the OP Superchain Ecosystem
   
