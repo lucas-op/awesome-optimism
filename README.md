@@ -115,6 +115,7 @@ Official resources for Optimism.
 ## Videos
 - [Developer Videos](https://community.optimism.io/docs/developers/media/#kelvin-interviews-ethdenver) - Collection of developer videos
 - [Modular OP Stack](https://www.youtube.com/watch?v=jlKPjiDu_KM) (Sep '22)
+- [Modular Sequencing](https://www.youtube.com/watch?v=aKxS16TG2jk) (Sep '22)
 - [Modular Rollup Theory Through the Lens of the OP Stack](https://www.youtube.com/watch?v=jnVjhp41pcc) (Oct '22)
 - [How Rollups *actually* work](https://www.youtube.com/watch?v=NKQz9jU0ftg) (Mar '23)
 - [Scaling Ethereum for Global Adoption with L2 Panel](https://www.youtube.com/watch?v=bBNmPNM8U_c) (Mar '23)
