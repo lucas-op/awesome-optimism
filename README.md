@@ -22,7 +22,7 @@ An awesome list about everything related to <a href='https://raw.githubuserconte
    * [Upcoming](#upcoming)
 7. [Tutorials](#tutorials)
 8. [Videos](#videos)
-9. [Research](#research)
+9. [Articles](#articles)
 10. [Development Tools](#development-tools)
     * [General](#general)
     * [OP Stack](#op-stack-1)
@@ -121,7 +121,7 @@ Official resources for Optimism.
 - [How Rollups *actually* work](https://www.youtube.com/watch?v=NKQz9jU0ftg) (Mar '23)
 - [Scaling Ethereum for Global Adoption with L2 Panel](https://www.youtube.com/watch?v=bBNmPNM8U_c) (Mar '23)
 
-## Research
+## Articles
 
 - [(Almost) Everything you need to know about Optimistic Rollup](https://www.paradigm.xyz/2021/01/almost-everything-you-need-to-know-about-optimistic-rollup) (Jan '21)- Builds up the design for optimistic rollups from first principles, addressing various perceived issues as they arise
 - [Cannon Fault Proof System](https://norswap.com/cannon-intro/) (Mar '22)- Explanation of the Cannon fault proof system
@@ -129,6 +129,7 @@ Official resources for Optimism.
 - [Research Note](https://woodstock-research.notion.site/Optimism-105557d5bb1d43a39423e40a49f27585?pvs=4) (Mar '23) - An overview of Optimism's technology, governance, token, roadmap, team, funding, and ecosystem by [Woodstock Fund](https://woodstockfund.com/)
 - [Superchain and the Rise of Rollups](https://messari.io/report/into-the-superchain-the-rise-of-ethereum-centric-rollup-ecosystems) (Apr '23) - Messari's report on Optimism's Superchain and business model for rollups
 - [The Rollup Multiverse](https://dba.mirror.xyz/hyRKK4_PDrO2FKpF6eIRvnq8sA_Mx7dXtQf_MWzSWTU) (May '23) - Understanding the distinction between rollups and bridge mechanisms, with a focus on Optimism as an example.
+- [Maximizing fault proof modularity with a composable pre-image oracle](https://blog.oplabs.co/composable-pre-image-oracle/) (Aug '23) - Explores the modular design of the OP Stack's Fault Proof System, featuring a deep dive into the system’s pre-image oracle
 
 ## Development Tools 
 
