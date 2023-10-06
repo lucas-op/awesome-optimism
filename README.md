@@ -33,8 +33,9 @@ An awesome list about everything related to <a href='https://raw.githubuserconte
     * [Zora Projects](#zora)
     * [Manta Pacific Projects](#manta-pacific)
 13. [Grants](#grants)
-14. [Newsletter](#newsletter)
-
+14. [Community Resources](#community-resources)
+    * [Newsletter](#newsletter)
+    * [Podcast](#podcast)
 
 
 ## Official Resources
@@ -237,10 +238,16 @@ Official resources for Optimism.
 - [Optimism Grants Changelog](https://optimismgrants.io/) - Latest updates and changes to the grant programs of the Optimism Collective
 - [RetroPGF](https://app.optimism.io/retropgf) - Retroactive Public Goods Funding
 
-## Newsletter
+## Community Resources
+
+### Newsletter
 - [The Optimistic Standard](https://us6.campaign-archive.com/home/?u=9727fa8bec4011400e57cafcb&id=ca91042234) - Monthly recap on Optimism
 - [The 🔵Optimist Newsletter](https://optimismbysublidefi.substack.com/) - Bi-weekly updates on Optimism
 - [The OP Superchain Roundup](https://theopsuperchainroundup.substack.com/) - Weekly updates and developments on the OP Superchain Ecosystem
+
+### Podcast
+- [The Delegate Corner](https://www.youtube.com/@DelegateCorner) - A podcast spotlighting delegates from Optimism's DAO.
+
   
 ## Contribute
 
