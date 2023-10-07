@@ -247,6 +247,8 @@ Official resources for Optimism.
 
 ### Podcast
 - [The Delegate Corner](https://www.youtube.com/@DelegateCorner) - A podcast spotlighting delegates from Optimism's DAO.
+- [The RetroPGF Podcast](https://www.youtube.com/playlist?list=PLkNS7G9A9BfbiOTZLk7hJ-EoIkUi24RlR) - A podcast dedicated to telling the stories of recipients of Optimism's RetroPGF funding and talking about all things RetroPGF.
+
 
   
 ## Contribute
