@@ -36,6 +36,7 @@ An awesome list about everything related to <a href='https://raw.githubuserconte
 14. [Community Resources](#community-resources)
     * [Newsletter](#newsletter)
     * [Podcast](#podcast)
+    * [Miscellaneous](#miscellaneous)
 
 
 ## Official Resources
@@ -249,6 +250,8 @@ Official resources for Optimism.
 - [The Delegate Corner](https://www.youtube.com/@DelegateCorner) - A podcast spotlighting delegates from Optimism's DAO.
 - [The RetroPGF Podcast](https://www.youtube.com/playlist?list=PLkNS7G9A9BfbiOTZLk7hJ-EoIkUi24RlR) - A podcast dedicated to telling the stories of recipients of Optimism's RetroPGF funding and talking about all things RetroPGF.
 
+### Miscellaneous
+- [Web3xplorer](https://www.web3xplorer.com/blockchains/optimism) - Go-to platform for all things Optimism and Web3
 
   
 ## Contribute
