@@ -254,6 +254,7 @@ Official resources for Optimism.
 - [Web3xplorer](https://www.web3xplorer.com/blockchains/optimism) - Go-to platform for all things Optimism and Web3
 - [Optimism Vision Reservoir](https://optimism-vision-reservoir.com/) - Collection of resources centered on Optimism’s values and vision
 - [ETHDaily](https://ethdaily.io/tag/optimism/) - News Roundup on Optimism
+- [The Optimistic Academy](https://app.optimistic.academy/courses/your-first-course) - Video courses to learn about Optimism
 
   
 ## Contribute
