@@ -255,6 +255,11 @@ Official resources for Optimism.
 - [Optimism Vision Reservoir](https://optimism-vision-reservoir.com/) - Collection of resources centered on Optimism’s values and vision
 - [ETHDaily](https://ethdaily.io/tag/optimism/) - News Roundup on Optimism
 - [The Optimistic Academy](https://app.optimistic.academy/courses/your-first-course) - Video courses to learn about Optimism
+- [The Optimism Guide](https://optimism.guide/) - Everything from micro lessons to a glossary to a collection of external and official resources.
+
+
+
+
 
   
 ## Contribute
