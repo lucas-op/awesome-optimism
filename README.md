@@ -256,7 +256,7 @@ Official resources for Optimism.
 - [ETHDaily](https://ethdaily.io/tag/optimism/) - News Roundup on Optimism
 - [The Optimistic Academy](https://app.optimistic.academy/courses/your-first-course) - Video courses to learn about Optimism
 - [The Optimism Guide](https://optimism.guide/) - Everything from micro lessons to a glossary to a collection of external and official resources.
-
+- [OP Radio](https://open.spotify.com/show/3H61hM7v9huX9VgrfBw26D) - OP Radio is a podcast on anything and everything related to Optimism.
 
 
 
