@@ -5,7 +5,7 @@
 </div>
 <br/>
 <div align="center">
-An awesome list about everything related to [Optimism].
+An awesome list about everything related to Optimism.
 </div>
 
 <br/>
