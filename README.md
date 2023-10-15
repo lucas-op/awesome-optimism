@@ -67,7 +67,6 @@ Official resources for Optimism:
 - [OP Stack Documentation](https://stack.optimism.io/) - Documentation for OP Stack.
 - [OP Mainnet Status](https://status.optimism.io/) - Status updates for Optimism Mainnet + Goerli.
 - [GitHub](https://github.com/ethereum-optimism) - Open source code from Optimism Labs (includes op-geth, relayer, tutorials, analytics, and more).
-
 - [Optimism Foundation Twitter](https://twitter.com/optimismFND) - Official account of the Optimism Foundation.
 - [Optimism Governance Twitter](https://twitter.com/OptimismGov) - The official Optimism Governance account.
 - [OP Labs Twitter](https://twitter.com/OPLabsPBC) - The official OP Labs account.
@@ -107,7 +106,6 @@ Official resources for Optimism:
 - [Base](https://base.org/) - Coinbase's Layer 2 network offering scalability and faster transactions.
 - [Kroma](https://github.com/kroma-network/) - Universal ZK Rollup based on the Optimism Bedrock architecture.
 - [Manta Pacific](https://pacific.manta.network/) - EVM-native modular execution layer for wide ZK applications adoption, with Manta's universal circuit and zk interface.
-
 - [opBNB](https://opbnb.bnbchain.org/en) - Optimism Rollup deployment on BSC for increased throughput.
 - [OP Mainnet](https://app.optimism.io/bridge/deposit) - EVM-equivalent Optimistic Rollup chain.
 - [Public Goods Network (PGN)](https://publicgoods.network/) - Layer 2 network supported by Gitcoin that works to create durable and recurring funding for public goods.
