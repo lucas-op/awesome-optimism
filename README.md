@@ -6,8 +6,9 @@
 <br/>
 <div align="center">
 An awesome list about everything related to Optimism.
-</div>
 Contributions welcome! Read the contribution guidelines first.
+</div>
+
 <br/>
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
