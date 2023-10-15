@@ -23,31 +23,13 @@ An awesome list about everything related to Optimism.
 - [Videos](#videos)
 - [Articles](#articles)
 - [Development Tools](#development-tools)
-  - [General](#general)
   - [OP Stack](#op-stack-1)
 - [Projects](#projects)
   - [OP Mainnet](#op-mainnet)
-    - [Naming Service](#naming-service)
-    - [Gaming](#gaming)
-    - [DeFi](#defi)
-    - [Insurance](#insurance)
-    - [Prediction Markets](#prediction-markets)
-    - [Portfolio Tracker](#portfolio-tracker)
-    - [DAO](#dao)
-    - [Attestations](#attestations)
-    - [Social](#social)
-    - [Geospatial](#geospatial)
   - [Base](#base)
-    - [DeFi](#defi-1)
-    - [Gaming](#gaming-1)
-    - [Social](#social-1)
-    - [NFT](#nft)
   - [Public Goods Network](#public-goods-network)
-    - [Funding](#funding)
   - [Zora](#zora)
-    - [NFT](#nft-1)
   - [Manta Pacific](#manta-pacific)
-    - [DeFi](#defi-2)
 - [Grants](#grants)
 - [Community Resources](#community-resources)
   - [Newsletter](#newsletter)
@@ -152,7 +134,7 @@ Official resources for Optimism:
 
 ## Development Tools
 
-### General
+<h3>General</h3>
 
 - [Cannon](https://github.com/usecannon/cannon) - Smart contract deployment tool and package manager.
 - [Covalent](https://www.covalenthq.com/) - Blockchain data indexing.
@@ -171,17 +153,17 @@ Official resources for Optimism:
 
 ### OP Mainnet
 
-#### Naming Service
+<h4>Naming Service</h4>
 
 - [OptiNames](https://optinames.xyz/) - ENS Subdomain on Optimism L2.
 - [Wildcards Protocol](https://github.com/Wildcards-Protocol) - Linking ENS domains to Optimism NFT collections.
 
-#### Gaming
+ <h4>Gaming</h4>
 
 - [Chaintrap Builders](https://www.polysensus.com/) - Bringing a simple dungeon game to Optimism.
 - [Another World](https://anotherworld.gg/) - P2E open world for NFT IPs and adventures.
 
-#### DeFi
+ <h4>DeFi</h4>
 
 - [Let's get HAI](https://www.letsgethai.com/#/) - Multi-collateral floating-peg stablecoin native to Optimism.
 - [Kwenta](https://kwenta.eth.limo/) - Decentralized derivatives trading platform offering real-world and on-chain synthetic assets.
@@ -196,41 +178,41 @@ Official resources for Optimism:
 - [Synthetix](https://synthetix.io/) - Derivatives liquidity protocol providing the backbone for derivatives trading in DeFi.
 - [Lyra](https://app.lyra.finance/) - Decentralized options protocol.
 
-#### Insurance
+ <h4>Insurance</h4>
 
 - [opencover](https://opencover.com/) - Insurance aggregator that protects against onchain risks.
 
-#### Prediction Markets
+ <h4>Prediction</h4> Markets
 
 - [Thales](https://thalesmarket.io/) - Allows the creation of peer-to-peer parimutuel markets that anyone can join.
 
-#### Portfolio Tracker
+ <h4>Portfolio</h4> Tracker
 
 - [Octav](https://octav.fi/) - Free & editable Web3 data analytics platform.
 - [Rotki](https://rotki.com/) - Open source portfolio tracker, accounting, and analytics tool that protects your privacy.
 
-#### DAO
+ <h4>DAO</h4>
 
 - [Karma](https://www.karmahq.xyz/) - Integrated DAO toolkit to measure contributions and enhance Governance.
 - [DAOstar](https://daostar.org/) - DAO Onboarding & Attestation List.
 
-#### Attestations
+ <h4>Attestations</h4>
 
 - [Attestation Station](https://optimism.easscan.org/) - Build schemas, query, and submit attestations.
 - [Clique](https://clique.social/) - Identity oracles connecting web2 and web3.
 
-#### Social
+ <h4>Social</h4>
 
 - [Farcaster](https://www.farcaster.xyz/) - A protocol for decentralized social apps.
 - [Nested](https://www.nested.com/) - Decentralized copy trading platform.
 
-#### Geospatial
+ <h4>Geospatial</h4>
 
 - [Geo Web](https://www.geoweb.network/) - The Geo Web is a public geospatial information network designed for the spatial computing era.
 
 ### Base
 
-#### DeFi
+ <h4>DeFi</h4>
 
 - [Aerodrome](https://aerodrome.finance/) - A central trading and liquidity marketplace on Base.
 - [AlienBase](https://www.alienbase.xyz/) - Base-native DEX.
@@ -238,34 +220,34 @@ Official resources for Optimism:
 - [BSX](https://www.bsx.exchange/) - Institutional-grade derivatives DEX.
 - [Overnight Finance](https://overnight.fi/) - Asset management protocol offering passive yield products based on delta-neutral strategies.
 
-#### Gaming
+ <h4>Gaming</h4>
 
 - [Parallel](https://parallel.life/) - Sci-Fi Card Game with NFTs.
 
-#### Social
+ <h4>Social</h4>
 
 - [friend.tech](https://www.friend.tech/) - The marketplace for your friends.
 
-#### NFT
+ <h4>NFT</h4>
 
 - [BasePaint](https://basepaint.xyz/) - Collaborative pixel art where the artist can earn rewards from mints.
 
 ### Public Goods Network
 
-#### Funding
+ <h4>Funding</h4>
 
 - [Gitcoin](https://www.gitcoin.co/) - Empowering communities to fund, build, & protect what matters.
 
 ### Zora
 
-#### NFT
+ <h4>NFT</h4>
 
 - [mint.fun](https://mint.fun/) - Spots freshly minted tokens and present all known minting options to you.
 - [Holograph](https://app.holograph.xyz/) - Omnichain NFT infrastructure.
 
 ### Manta Pacific
 
-#### DeFi
+ <h4>DeFi</h4>
 
 - [Aperture](https://app.aperture.finance/swap) - Concentrated liquidity DEX with native LP automation features.
 
