@@ -53,7 +53,6 @@ An awesome list about everything related to Optimism.
   - [Newsletter](#newsletter)
   - [Podcast](#podcast)
   - [Miscellaneous](#miscellaneous)
-- [Contribute](#contribute)
 
 ## Official Resources
 
