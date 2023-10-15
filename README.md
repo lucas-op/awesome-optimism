@@ -309,4 +309,4 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the CC0 License.
