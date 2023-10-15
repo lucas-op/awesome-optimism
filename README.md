@@ -9,7 +9,7 @@ An awesome list about everything related to Optimism.
 </div>
 
 <br/>
-An awesome list about everything related to Optimism.
+
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
 
 
