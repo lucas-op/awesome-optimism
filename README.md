@@ -10,6 +10,9 @@ An awesome list about everything related to Optimism.
 
 <br/>
 
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+
 ## Contents
 
 - [Official Resources](#official-resources)
@@ -296,6 +299,3 @@ Official resources for Optimism:
 - [The Optimism Guide](https://optimism.guide/) - Everything from micro lessons to a glossary to a collection of external and official resources.
 - [OP Radio](https://open.spotify.com/show/3H61hM7v9huX9VgrfBw26D) - OP Radio is a podcast on anything and everything related to Optimism.
 
-
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-This project is licensed under the CC0 License.
