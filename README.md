@@ -5,7 +5,7 @@
 </div>
 <br/>
 <div align="center">
-An awesome list about everything related to [Optimism](https://raw.githubusercontent.com/ethereum-optimism/brand-kit/main/assets/images/Profile-Logo.png).
+An awesome list about everything related to [Optimism].
 </div>
 
 <br/>
