@@ -10,6 +10,8 @@ An awesome list about everything related to Optimism.
 
 <br/>
 
+Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
 ## Contents
 
 - [Official Resources](#official-resources)
