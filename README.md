@@ -12,8 +12,6 @@ An awesome list about everything related to [Optimism](https://raw.githubusercon
 
 ## Contents
 
-- [Awesome Optimism ](#awesome-optimism-)
-  - [Contents](#contents)
   - [Official Resources](#official-resources)
   - [Analytics](#analytics)
   - [Blockchain Explorers](#blockchain-explorers)
