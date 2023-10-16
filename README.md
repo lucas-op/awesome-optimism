@@ -117,12 +117,12 @@ Official resources for Optimism:
 ## Videos
 
 - [Developer Videos](https://community.optimism.io/docs/developers/media/#kelvin-interviews-ethdenver) - Collection of developer videos.
-- [Modular OP Stack](https://www.youtube.com/watch?v=jlKPjiDu_KM) - (Sep '22).
-- [Modular Sequencing](https://www.youtube.com/watch?v=aKxS16TG2jk) - (Sep '22).
-- [Pluggable data availability](https://youtu.be/-xWpalvZeEU?si=V5DW07j11lcwx88f) - (Sep '22).
-- [Modular Rollup Theory Through the Lens of the OP Stack](https://www.youtube.com/watch?v=jnVjhp41pcc) - (Oct '22).
-- [How Rollups _actually_ work](https://www.youtube.com/watch?v=NKQz9jU0ftg) - (Mar '23).
-- [Scaling Ethereum for Global Adoption with L2 Panel](https://www.youtube.com/watch?v=bBNmPNM8U_c) - (Mar '23).
+- [Modular OP Stack](https://www.youtube.com/watch?v=jlKPjiDu_KM) - (Sep '22) - Describes the modular design of the OP Stack and how it enables third-party innovation on Optimism.
+- [Modular Sequencing](https://www.youtube.com/watch?v=aKxS16TG2jk) - (Sep '22) - Discusses the implementation of modular sequencing in the Optimism Bedrock architecture.
+- [Pluggable data availability](https://youtu.be/-xWpalvZeEU?si=V5DW07j11lcwx88f) - (Sep '22) - Discusses how the OP Stack achieves pluggable data availability through a modular design allowing different protocols to provide state availability using their own techniques.
+- [Modular Rollup Theory Through the Lens of the OP Stack](https://www.youtube.com/watch?v=jnVjhp41pcc) - (Oct '22) - Explores the theory of modular rollups through the lens of the OP Stack's architecture, focusing on how its modular and extensible design enables innovation.
+- [How Rollups _actually_ work](https://www.youtube.com/watch?v=NKQz9jU0ftg) - (Mar '23) - Provides an approachable explanation of how rollups work at a technical level, comparing optimistic and zkRollup approaches.
+- [Scaling Ethereum for Global Adoption with L2 Panel](https://www.youtube.com/watch?v=bBNmPNM8U_c) - (Mar '23) - Discusses the progress and future of layer 2 scalability for Ethereum, focusing on how rollups enable global mainstream adoption of web3 applications.
 
 ## Articles
 
