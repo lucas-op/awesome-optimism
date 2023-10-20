@@ -281,7 +281,7 @@ Official resources for Optimism:
 - [The Optimistic Academy](https://app.optimistic.academy/courses/your-first-course) - Video courses to learn about Optimism.
 - [The Optimism Guide](https://optimism.guide/) - Everything from micro lessons to a glossary to a collection of external and official resources.
 - [OP Radio](https://open.spotify.com/show/3H61hM7v9huX9VgrfBw26D) - OP Radio is a podcast on anything and everything related to Optimism.
-
+- [Optimism Resource Center](https://optimism.help/) - Resources related to the governance system of the Optimism Collective.
   
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
