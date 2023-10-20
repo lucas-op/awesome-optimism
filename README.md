@@ -5,8 +5,9 @@
 </div>
 <br/>
 <div align="center">
-An awesome list about everything related to Optimism.
+A curated list of awesome resources related to the Optimism ecosystem
 </div>
+
 
 <br/>
 
