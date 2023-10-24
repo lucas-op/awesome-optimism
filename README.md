@@ -126,6 +126,9 @@ Official resources for Optimism:
 - [Modular Rollup Theory Through the Lens of the OP Stack](https://www.youtube.com/watch?v=jnVjhp41pcc) - (Oct '22) - Explores the theory of modular rollups through the lens of the OP Stack's architecture, focusing on how its modular and extensible design enables innovation.
 - [How Rollups _actually_ work](https://www.youtube.com/watch?v=NKQz9jU0ftg) - (Mar '23) - Provides an approachable explanation of how rollups work at a technical level, comparing optimistic and zkRollup approaches.
 - [Scaling Ethereum for Global Adoption with L2 Panel](https://www.youtube.com/watch?v=bBNmPNM8U_c) - (Mar '23) - Discusses the progress and future of layer 2 scalability for Ethereum, focusing on how rollups enable global mainstream adoption of web3 applications.
+- [Doing Decentralized Identity Right with Kelvin Fichter](https://www.youtube.com/watch?v=o0N1Z9AyrEM) - (Mar '23) - Discusses the approach to building decentralized identity solutions using self-sovereign techniques that empower individuals to own and control their personal data.
+
+
 
 ## Articles
 
