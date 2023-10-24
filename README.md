@@ -61,6 +61,7 @@ Official resources for Optimism:
 ## Analytics
 
 - [OP Analytics](https://github.com/ethereum-optimism/op-analytics) - Onchain Data, Utilities, References, and other Analytics on Optimism Mainnet.
+- [Optimism Developer Metrics Sploring](https://dune.com/Marcov/Optimism-Ethereum) - Tracks developer activity on Optimism (including OP Mainnet and Base - Sourced other OP Chains from Goldsky: Zora, PGN, etc), using onchain deployers as a proxy.
 - [Optimism Overview Dashboard](https://dune.com/Marcov/Optimism-Ethereum) - General OP Mainnet dashboard.
 - [Optimism Governance Dashboard](https://dune.com/usc-blockchain-club/optimism-delegates) - Real-time tracking of proposals and participation statistics for the Optimism Collective.
 - [Rollup Economics](https://dune.com/niftytable/rollup-economics) - Breaks down the on-chain revenues (txn fees), costs (posting data to L1), and raw materials (L1 calldata, usage metrics, etc.) of rollups.
