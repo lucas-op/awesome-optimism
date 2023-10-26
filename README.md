@@ -120,6 +120,7 @@ Official resources for Optimism:
 ## Videos
 
 - [Developer Videos](https://community.optimism.io/docs/developers/media/#kelvin-interviews-ethdenver) - Collection of developer videos.
+- [Getting Started with Optimism](https://www.youtube.com/watch?v=_Y6CwsYgqwI) - (Sep '22) - Provides a quick introduction on developing applications on Optimism.
 - [Introduction to architecture](https://youtu.be/fkoTMchOFPI?si=4ZRr1Gi7KrK7BrTe) - (Sep '22) - Introduction to the technical design of Optimism.
 - [Modular OP Stack](https://www.youtube.com/watch?v=jlKPjiDu_KM) - (Sep '22) - Describes the modular design of the OP Stack and how it enables third-party innovation on Optimism.
 - [Modular Sequencing](https://www.youtube.com/watch?v=aKxS16TG2jk) - (Sep '22) - Discusses the implementation of modular sequencing in the Optimism Bedrock architecture.
