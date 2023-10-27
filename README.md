@@ -163,6 +163,10 @@ Official resources for Optimism:
 
 ### OP Mainnet
 
+<h4>Wallets</h4>
+
+- [BEAM Wallet](https://about.beam.eco/) - Wallet built on OPStack and account abstraction.
+
 <h4>Naming Service</h4>
 
 - [OptiNames](https://optinames.xyz/) - ENS Subdomain on Optimism L2.
