@@ -73,6 +73,7 @@ Official resources for Optimism:
 - [Blockscout](https://optimism.blockscout.com/) - Open-source Block Explorer.
 - [3xpl](https://3xpl.com/optimism) - Ad-free block explorer.
 - [jiffyscan](https://www.jiffyscan.xyz/?network=optimism/) - A block explorer and analytics platform for Account Abstraction using EIP-4337.
+- [Superscan](https://superscan.network/) - The Superchain Ecosystem Explorer.
 
 ## Clients
 
