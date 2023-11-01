@@ -267,9 +267,10 @@ Official resources for Optimism:
 
 ## Grants
 
+- [RetroPGF](https://app.optimism.io/retropgf) - Official Site for RetroPGF.
+- [RetroPGF Hub](https://retropgfhub.com/) - Platform to nominate and discover RetroPGF projects. 
 - [Optimism Grants Council](https://app.charmverse.io/op-grants/page-701220845245208) - Grants Landing Page for Season 4.
 - [Optimism Grants Changelog](https://optimismgrants.io/) - Latest updates and changes to the grant programs of the Optimism Collective.
-- [RetroPGF](https://app.optimism.io/retropgf) - Retroactive Public Goods Funding.
 
 ## Community Resources
 
