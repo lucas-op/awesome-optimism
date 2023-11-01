@@ -157,7 +157,7 @@ Official resources for Optimism:
 
 - [AltLayer](https://altlayer.io/) - Decentralized protocol for developers to launch highly elastic application-tailored rollups.
 - [Conduit](https://conduit.xyz/) - One-click Optimistic Rollup deployment solution.
-- [simple-op-stack-rollup](https://github.com/0xFableOrg/simple-op-stack-rollup) - Permissionless and open-source rollup deployment.
+- [roll-op](https://github.com/0xFableOrg/roll-op/) - Permissionless and open-source rollup deployment.
 
 ## Projects
 
