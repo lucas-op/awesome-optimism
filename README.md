@@ -153,6 +153,7 @@ Official resources for Optimism:
 - [Hardhat](https://hardhat.org/) - A development environment and framework for building Ethereum smart contracts and dApps.
 - [Tenderly](https://tenderly.co/) - All-in-one development platform.
 - [Wagmi](https://wagmi.sh/) - A collection of React hooks for Ethereum applications to build and fetch functionality from open-source functions.
+- [Remix](https://remix.ethereum.org) - A no-setup tool with a GUI for developing smart contracts.
 
 ### OP Stack
 
