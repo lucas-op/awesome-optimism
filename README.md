@@ -222,6 +222,10 @@ Official resources for Optimism:
 - [Farcaster](https://www.farcaster.xyz/) - A protocol for decentralized social apps.
 - [Nested](https://www.nested.com/) - Decentralized copy trading platform.
 
+ <h4>Funding</h4>
+
+- [Giveth](https://giveth.io) - Zero-fee crypto donation platform that rewards donors to verified public goods projects.
+
  <h4>Geospatial</h4>
 
 - [Geo Web](https://www.geoweb.network/) - The Geo Web is a public geospatial information network designed for the spatial computing era.
