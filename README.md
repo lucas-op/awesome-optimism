@@ -160,7 +160,8 @@ Official resources for Optimism:
 - [AltLayer](https://altlayer.io/) - Decentralized protocol for developers to launch highly elastic application-tailored rollups.
 - [Conduit](https://conduit.xyz/) - One-click Optimistic Rollup deployment solution.
 - [roll-op](https://github.com/0xFableOrg/roll-op/) - Permissionless and open-source rollup deployment.
-
+- [indexed.xyz](https://www.indexed.xyz/#) - Open, decoded, and CC0-licensed Optimism Superchain datasets.
+  
 ## Projects
 
 ### OP Mainnet
