@@ -248,6 +248,7 @@ Official resources for Optimism:
  <h4>Social</h4>
 
 - [friend.tech](https://www.friend.tech/) - The marketplace for your friends.
+- [SongTech](https://www.song.tech/) - Market for songs.
 
  <h4>NFT</h4>
 
