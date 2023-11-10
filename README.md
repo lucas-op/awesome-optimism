@@ -226,6 +226,7 @@ Official resources for Optimism:
  <h4>Funding</h4>
 
 - [Giveth](https://giveth.io) - Zero-fee crypto donation platform that rewards donors to verified public goods projects.
+- [Endaoment](https://endaoment.org/) - 501(c)(3) nonprofit community foundation built entirely onchain.
 
  <h4>Geospatial</h4>
 
