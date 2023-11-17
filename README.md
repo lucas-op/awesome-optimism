@@ -111,6 +111,7 @@ Official resources for Optimism:
 - [Mina](https://minaprotocol.com/) - Adding ZK proofs to Optimism's fault proof stack to create ZK-Optimistic hybrid rollups.
 - [StealthChain](https://stealthchain.org/) - Decentralized, Ethereum-equivalent OP Stack Rollup.
 - [Synpase](https://docs.synapseprotocol.com/synapse-chain/synapse-chain) - Natively interchain rollup, able to communicate other supported chains by the Synapse Interchain Network.
+- [Redstone](https://github.com/latticexyz/redstone) - The first plasma-implementation for the OP Stack.
 
 ## Tutorials
 
