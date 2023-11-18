@@ -233,7 +233,9 @@ Official resources for Optimism:
 
 - [Geo Web](https://www.geoweb.network/) - The Geo Web is a public geospatial information network designed for the spatial computing era.
 
-  
+ <h4>Privacy</h4>
+
+- [Umbra](https://app.umbra.cash/) - Protocol for sending stealth payments.
 
 ### Base
 
