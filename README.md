@@ -195,6 +195,9 @@ Official resources for Optimism:
 - [Sonne Finance](https://sonne.finance/) - Decentralized lending protocol.
 - [Synthetix](https://synthetix.io/) - Derivatives liquidity protocol providing the backbone for derivatives trading in DeFi.
 - [Lyra](https://app.lyra.finance/) - Decentralized options protocol.
+- [Odos](https://app.odos.xyz/) - DeFi Aggregator with multi-input and multi-output swaps.
+
+
 
  <h4>Insurance</h4>
 
