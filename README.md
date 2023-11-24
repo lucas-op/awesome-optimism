@@ -156,6 +156,7 @@ Official resources for Optimism:
 - [Tenderly](https://tenderly.co/) - All-in-one development platform.
 - [Wagmi](https://wagmi.sh/) - A collection of React hooks for Ethereum applications to build and fetch functionality from open-source functions.
 - [Remix](https://remix.ethereum.org) - A no-setup tool with a GUI for developing smart contracts.
+- [Rainbow Kit](https://github.com/rainbow-me/rainbowkit) - React library that makes it easy to add wallet connection to your dapp.
 
 ### OP Stack
 
