@@ -165,6 +165,7 @@ Official resources for Optimism:
 - [Conduit](https://conduit.xyz/) - One-click Optimistic Rollup deployment solution.
 - [roll-op](https://github.com/0xFableOrg/roll-op/) - Permissionless and open-source rollup deployment.
 - [indexed.xyz](https://www.indexed.xyz/#) - Open, decoded, and CC0-licensed Optimism Superchain datasets.
+- [Gelato](https://www.gelato.network/) - Enterprise-grade OP Stack Rollup infrastructure.
   
 ## Projects
 
