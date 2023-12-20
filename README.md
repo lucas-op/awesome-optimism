@@ -82,6 +82,7 @@ Official resources for Optimism:
 - [OP-Erigon](https://github.com/testinprod-io/op-erigon) - A fork of the L1 execution client Erigon (golang alternative).
 - [Magi](https://github.com/a16z/magi) - Rollup consensus-layer client written in Rust by a16z.
 - [OP-Reth](https://github.com/paradigmxyz/reth/pull/1569) - Reth execution client for post-bedrock upgrade (rust alternative).
+- [Hildr](https://github.com/optimism-java/hildr) - OP Stack rollup client written in Java 21 with GraalVM native.
 
 ## OP Stack
 
