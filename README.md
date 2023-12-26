@@ -232,6 +232,7 @@ Official resources for Optimism:
 
 - [Farcaster](https://www.farcaster.xyz/) - A protocol for decentralized social apps.
 - [Nested](https://www.nested.com/) - Decentralized copy trading platform.
+- [Mirror](https://mirror.xyz) - The home for web3 publishing.
 
  <h4>Funding</h4>
 
