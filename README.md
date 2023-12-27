@@ -115,6 +115,9 @@ Official resources for Optimism:
 - [Synpase](https://docs.synapseprotocol.com/synapse-chain/synapse-chain) - Natively interchain rollup, able to communicate other supported chains by the Synapse Interchain Network.
 - [Redstone](https://github.com/latticexyz/redstone) - The first plasma-implementation for the OP Stack.
 - [Swan](https://www.swanchain.io/homepage/) - Open marketplace for cloud resources.
+- [Lisk](https://lisk.com/blog/posts/announcing-lisk-move-to-ethereum-ecosystem) - Built using Gelato with a focus on RWA and DePIN.
+
+
 
 ## Tutorials
 
