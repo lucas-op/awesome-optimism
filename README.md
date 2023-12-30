@@ -263,11 +263,13 @@ Official resources for Optimism:
  <h4>Gaming</h4>
 
 - [Parallel](https://parallel.life/) - Sci-Fi Card Game with NFTs.
+- [frenpet](https://frenpet.xyz/) - Grow and battle fren pets with frens.
 
  <h4>Social</h4>
 
 - [friend.tech](https://www.friend.tech/) - The marketplace for your friends.
 - [SongTech](https://www.song.tech/) - Market for songs.
+
 
  <h4>NFT</h4>
 
