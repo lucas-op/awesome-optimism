@@ -163,6 +163,7 @@ Official resources for Optimism:
 - [Remix](https://remix.ethereum.org) - A no-setup tool with a GUI for developing smart contracts.
 - [Rainbow Kit](https://github.com/rainbow-me/rainbowkit) - React library that makes it easy to add wallet connection to your dapp.
 - [Sourcify](https://sourcify.dev/) - Open-source Solidity contract source code verification service.
+- [The Graph](https://thegraph.com/) - The Graph organizes and makes usable web3 data for dapps via GraphQL.
 
 ### OP Stack
 
