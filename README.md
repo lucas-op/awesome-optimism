@@ -180,6 +180,9 @@ Official resources for Optimism:
 <h4>Wallets</h4>
 
 - [BEAM Wallet](https://about.beam.eco/) - Wallet built on OPStack and account abstraction.
+- [Frame](https://frame.sh/) - A privacy-focused Ethereum wallet for Web3
+
+
 
 <h4>Naming Service</h4>
 
