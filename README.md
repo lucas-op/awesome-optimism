@@ -67,6 +67,7 @@ Official resources for Optimism:
 - [Rollup Economics](https://dune.com/niftytable/rollup-economics) - Breaks down the on-chain revenues (txn fees), costs (posting data to L1), and raw materials (L1 calldata, usage metrics, etc.) of rollups.
 - [L2BEAT](https://l2beat.com/) - Comparison of current state of various L2s.
 - [OP Governance Analytics Dashboard](https://optimism.curiahub.xyz/) - Tracks key governance metrics including participation, voter behavior, and power structures.
+- [Open Source Observer](https://www.opensource.observer/) - Measure the impact of open source contributions
 
 ## Blockchain Explorers
 
@@ -163,6 +164,7 @@ Official resources for Optimism:
 - [Rainbow Kit](https://github.com/rainbow-me/rainbowkit) - React library that makes it easy to add wallet connection to your dapp.
 - [Sourcify](https://sourcify.dev/) - Open-source Solidity contract source code verification service.
 - [The Graph](https://thegraph.com/) - The Graph organizes and makes usable web3 data for dapps via GraphQL.
+- 
 
 ### OP Stack
 
