@@ -214,7 +214,11 @@ Official resources for Optimism:
 - [Lyra](https://app.lyra.finance/) - Decentralized options protocol.
 - [Odos](https://app.odos.xyz/) - DeFi Aggregator with multi-input and multi-output swaps.
 
+<h4>Bridges</h4>
 
+- [Bungee](https://www.bungee.exchange/) - Bridge aggregator by Socket.
+- [Stargate](https://stargate.finance/transfer) - A Composable Omnichain Native Asset Bridge.
+- [Hop](https://hop.exchange/) - Scalable rollup-to-rollup general token bridge.
 
  <h4>Insurance</h4>
 
@@ -303,12 +307,20 @@ Official resources for Optimism:
 - [Aperture](https://app.aperture.finance/swap) - Concentrated liquidity DEX with native LP automation features.
 
 ## Grants
-
-- [RetroPGF](https://app.optimism.io/retropgf) - Official Site for RetroPGF.
-- [RetroPGF Hub](https://retropgfhub.com/) - Platform to nominate and discover RetroPGF projects. 
+ 
 - [Optimism Grants Council](https://app.charmverse.io/op-grants/page-701220845245208) - Grants Landing Page for Season 4.
 - [Optimism Grants Changelog](https://optimismgrants.io/) - Latest updates and changes to the grant programs of the Optimism Collective.
 - [Agora](https://vote.optimism.io/) - Token house and Citizen house governance app and contract
+
+<h4>RPGF3</h4>
+
+- [RetroPGF](https://app.optimism.io/retropgf) - Official Site for RetroPGF.
+- [RetroPGF Hub](https://retropgfhub.com/) - Platform to nominate and discover RetroPGF projects.
+- [Retrolist](https://retrolist.app/) - RetroPGF Rubric-based List Creation UI opening to public crowdsourcing.
+- [Growthpie](https://www.growthepie.xyz/optimism-retropgf-3) - RetroPGF 3 Tracker.
+- [Pairwise](https://www.pairwise.vote/) - Simplifying the voting RetroPGF experience
+
+
 
 ## Community Resources
 
