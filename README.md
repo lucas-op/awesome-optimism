@@ -77,6 +77,8 @@ Official resources for Optimism:
 - [jiffyscan](https://www.jiffyscan.xyz/?network=optimism/) - A block explorer and analytics platform for Account Abstraction using EIP-4337.
 - [Superscan](https://superscan.network/) - The Superchain Ecosystem Explorer.
 - [Blocscan](https://blobscan.com/) - Blockchain explorer to navigate shard blob transactions.
+- [beaconcha.in](https://beaconcha.in/) - Open Source Ethereum Explorer.
+
 
 ## Clients
 
@@ -165,7 +167,7 @@ Official resources for Optimism:
 - [Rainbow Kit](https://github.com/rainbow-me/rainbowkit) - React library that makes it easy to add wallet connection to your dapp.
 - [Sourcify](https://sourcify.dev/) - Open-source Solidity contract source code verification service.
 - [The Graph](https://thegraph.com/) - The Graph organizes and makes usable web3 data for dapps via GraphQL.
-- 
+- [TypeChain](https://github.com/dethcrypto/TypeChain) - TypeScript bindings for Ethereum smart contracts.
 
 ### OP Stack
 
