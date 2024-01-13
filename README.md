@@ -219,6 +219,7 @@ Official resources for Optimism:
 - [Bungee](https://www.bungee.exchange/) - Bridge aggregator by Socket.
 - [Stargate](https://stargate.finance/transfer) - A Composable Omnichain Native Asset Bridge.
 - [Hop](https://hop.exchange/) - Scalable rollup-to-rollup general token bridge.
+- [Jumper](https://jumper.exchange/) - Multi-chain liquidity aggregator powered by LI.FI
 
  <h4>Insurance</h4>
 
@@ -276,6 +277,7 @@ Official resources for Optimism:
 
 - [Parallel](https://parallel.life/) - Sci-Fi Card Game with NFTs.
 - [frenpet](https://frenpet.xyz/) - Grow and battle fren pets with frens.
+- [EthXY](https://ethxy.com/) - Base Pixel MMORPG with PvP combat mechanics.
 
  <h4>Social</h4>
 
