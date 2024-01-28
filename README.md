@@ -119,6 +119,7 @@ Official resources for Optimism:
 - [Redstone](https://github.com/latticexyz/redstone) - The first plasma-implementation for the OP Stack.
 - [Swan](https://www.swanchain.io/homepage/) - Open marketplace for cloud resources.
 - [Lisk](https://lisk.com/blog/posts/announcing-lisk-move-to-ethereum-ecosystem) - Built using Gelato with a focus on RWA and DePIN.
+- [BOB](https://www.gobob.xyz/) - BOB ("Build on Bitcoin") is an OP Stack rollup that natively supports the Bitcoin stack.
 
 
 
