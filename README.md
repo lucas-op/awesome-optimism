@@ -95,9 +95,8 @@ Official resources for Optimism:
 - [Aevo](https://www.aevo.xyz/) - The canonical chain for Aevo Exchange, a decentralized options exchange.
 - [Base](https://base.org/) - Coinbase's Layer 2 network offering scalability and faster transactions.
 - [Kroma](https://github.com/kroma-network/) - Universal ZK Rollup based on the Optimism Bedrock architecture.
-- [Manta Pacific](https://pacific.manta.network/) - EVM-native modular execution layer for wide ZK applications adoption, with Manta's universal circuit and zk interface.
 - [OP Mainnet](https://app.optimism.io/bridge/deposit) - EVM-equivalent Optimistic Rollup chain.
-- [Public Goods Network (PGN)](https://publicgoods.network/) - Layer 2 network supported by Gitcoin that works to create durable and recurring funding for public goods.
+- [Public Goods Network (PGN)](https://publicgoods.network/) - Layer 2 network supported by Gitcoin that works to create durable and recurring funding for public goods. 
 - [Zora Network](https://zora.co/) - Layer 2 integration with Zora NFT trading market, attracting artists and collectors.
 
 ### Upcoming
@@ -106,7 +105,7 @@ Official resources for Optimism:
 - [Celo](https://celo.org/) - A Layer 1 migrating to an OP Stack-based Ethereum Layer 2. Includes data availability layer powered by EigenLayer.
 - [Kinto](https://kinto.xyz/) - KYC DeFi network focused on safe and insured decentralized financial services.
 - [OPCraft](https://opcraft.mud.dev/) - On-chain virtual world games with high throughput and faster block generation.
-- [UniDex](https://www.unidex.exchange/) - Multi-chain aggregator with low gas costs and secure transactions.
+- [Molten](https://www.unidex.exchange/molten-network) - Molten Network is an upcoming scaling solution by Unidex team.
 - [Worldcoin](https://worldcoin.org/) - Migration of World App wallet to OP mainnet and partnership with Optimism Collective.
 - [Keystone](https://github.com/curio-research/keystone) - Full-chain game engine for enhanced gaming experience on the OP Stack.
 - [Loot Chain](https://lootchain.com/) - A dedicated layer 2 blockchain for the Loot community. Uses Polygon for data availability layer.
@@ -120,6 +119,11 @@ Official resources for Optimism:
 - [Swan](https://www.swanchain.io/homepage/) - Open marketplace for cloud resources.
 - [Lisk](https://lisk.com/blog/posts/announcing-lisk-move-to-ethereum-ecosystem) - Built using Gelato with a focus on RWA and DePIN.
 - [BOB](https://www.gobob.xyz/) - BOB ("Build on Bitcoin") is an OP Stack rollup that natively supports the Bitcoin stack.
+- [Metal](https://metall2.com/) - Metal L2 is an upcoming scaling solution by Metallicus.
+- [Mint](https://www.mintchain.io/) - Mint Blockchain is a Layer 2 network for NFTs.
+- [Zentachain](https://zentachain.io/) - Zentachain is a privacy-focused IoT blockchain networking project.
+- [RSS3 Value SubLayer](https://zentachain.io/) - The RSS3 Value Sublayer is an Ethereum Layer2 built with OP Stack and Celestia DA, handling the value and ownership of AI and Open Information.
+
 
 
 
