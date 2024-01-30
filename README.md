@@ -34,6 +34,7 @@ A curated list of awesome resources related to the Optimism ecosystem
   - [Public Goods Network](#public-goods-network)
   - [Zora](#zora)
   - [Manta Pacific](#manta-pacific)
+  - [Mode Network](#mode-network)
 - [Grants](#grants)
 - [Community Resources](#community-resources)
   - [Newsletter](#newsletter)
@@ -92,12 +93,13 @@ Official resources for Optimism:
 
 ### Active
 
+- [OP Mainnet](https://app.optimism.io/bridge/deposit) - EVM-equivalent Optimistic Rollup chain.
 - [Aevo](https://www.aevo.xyz/) - The canonical chain for Aevo Exchange, a decentralized options exchange.
 - [Base](https://base.org/) - Coinbase's Layer 2 network offering scalability and faster transactions.
 - [Kroma](https://github.com/kroma-network/) - Universal ZK Rollup based on the Optimism Bedrock architecture.
-- [OP Mainnet](https://app.optimism.io/bridge/deposit) - EVM-equivalent Optimistic Rollup chain.
 - [Public Goods Network (PGN)](https://publicgoods.network/) - Layer 2 network supported by Gitcoin that works to create durable and recurring funding for public goods. 
 - [Zora Network](https://zora.co/) - Layer 2 integration with Zora NFT trading market, attracting artists and collectors.
+- [Mode Network](https://www.mode.network/) - Network built on OP Stack with contract revenue sharing incentives at the protocol layer.
 
 ### Upcoming
 
@@ -110,7 +112,6 @@ Official resources for Optimism:
 - [Keystone](https://github.com/curio-research/keystone) - Full-chain game engine for enhanced gaming experience on the OP Stack.
 - [Loot Chain](https://lootchain.com/) - A dedicated layer 2 blockchain for the Loot community. Uses Polygon for data availability layer.
 - [Lyra Finance](https://www.lyra.finance/) - Options protocol launching V2 with "Lyra Chain" on OP Stack for high-throughput, low-latency, and low-cost transactions.
-- [Mode Network](https://www.mode.network/) - Network built on OP Stack with contract revenue sharing incentives at the protocol layer.
 - [Debank Chain](https://github.com/DeBankDeFi/DeBankChain) - Layer 2 Blockchain for Social Engagement.
 - [Mina](https://minaprotocol.com/) - Adding ZK proofs to Optimism's fault proof stack to create ZK-Optimistic hybrid rollups.
 - [StealthChain](https://stealthchain.org/) - Decentralized, Ethereum-equivalent OP Stack Rollup.
@@ -190,8 +191,6 @@ Official resources for Optimism:
 
 - [BEAM Wallet](https://about.beam.eco/) - Wallet built on OPStack and account abstraction.
 - [Frame](https://frame.sh/) - A privacy-focused Ethereum wallet for Web3
-
-
 
 <h4>Naming Service</h4>
 
@@ -312,6 +311,12 @@ Official resources for Optimism:
  <h4>DeFi</h4>
 
 - [Aperture](https://app.aperture.finance/swap) - Concentrated liquidity DEX with native LP automation features.
+
+### Mode Network
+
+ <h4>DeFi</h4>
+
+- [Ionic](https://www.ionic.money/) - Non-custodial money market protocol.
 
 ## Grants
  
