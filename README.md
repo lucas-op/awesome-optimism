@@ -288,7 +288,6 @@ Official resources for Optimism:
 - [friend.tech](https://www.friend.tech/) - The marketplace for your friends.
 - [SongTech](https://www.song.tech/) - Market for songs.
 
-
  <h4>NFT</h4>
 
 - [BasePaint](https://basepaint.xyz/) - Collaborative pixel art where the artist can earn rewards from mints.
@@ -316,7 +315,12 @@ Official resources for Optimism:
 
  <h4>DeFi</h4>
 
+- [Kim Exchange](https://app.kim.exchange/) - Native DEX for the Mode Network with staking modules to incentivize LPs.
 - [Ionic](https://www.ionic.money/) - Non-custodial money market protocol.
+
+<h4>Social</h4>
+
+- [Mode Name Service](https://space.id/tld/6) - .mode domain by SpaceID.
 
 ## Grants
  
