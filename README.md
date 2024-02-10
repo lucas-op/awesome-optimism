@@ -124,7 +124,7 @@ Official resources for Optimism:
 - [Mint](https://www.mintchain.io/) - Mint Blockchain is a Layer 2 network for NFTs.
 - [Zentachain](https://zentachain.io/) - Zentachain is a privacy-focused IoT blockchain networking project.
 - [RSS3 Value SubLayer](https://zentachain.io/) - The RSS3 Value Sublayer is an Ethereum Layer2 built with OP Stack and Celestia DA, handling the value and ownership of AI and Open Information.
-
+- [Fraxtal](https://www.frax.com/) - Modular L2 blockchain built by Frax.
 
 
 
