@@ -217,6 +217,7 @@ Official resources for Optimism:
 - [Synthetix](https://synthetix.io/) - Derivatives liquidity protocol providing the backbone for derivatives trading in DeFi.
 - [Lyra](https://app.lyra.finance/) - Decentralized options protocol.
 - [Odos](https://app.odos.xyz/) - DeFi Aggregator with multi-input and multi-output swaps.
+- [Aperture](https://app.aperture.finance/swap) - Concentrated liquidity DEX with native LP automation features.
 
 <h4>Bridges</h4>
 
@@ -272,10 +273,9 @@ Official resources for Optimism:
  <h4>DeFi</h4>
 
 - [Aerodrome](https://aerodrome.finance/) - A central trading and liquidity marketplace on Base.
-- [AlienBase](https://www.alienbase.xyz/) - Base-native DEX.
 - [Avantis](https://www.avantisfi.com/) - Oracle-based synthetic derivatives protocol with up to 100x leverage.
-- [BSX](https://www.bsx.exchange/) - Institutional-grade derivatives DEX.
 - [Overnight Finance](https://overnight.fi/) - Asset management protocol offering passive yield products based on delta-neutral strategies.
+- [IntentX](https://intentx.io/) - Perpetuals platform based on intent technology
 
  <h4>Gaming</h4>
 
@@ -304,12 +304,6 @@ Official resources for Optimism:
 
 - [mint.fun](https://mint.fun/) - Spots freshly minted tokens and present all known minting options to you.
 - [Holograph](https://app.holograph.xyz/) - Omnichain NFT infrastructure.
-
-### Manta Pacific
-
- <h4>DeFi</h4>
-
-- [Aperture](https://app.aperture.finance/swap) - Concentrated liquidity DEX with native LP automation features.
 
 ### Mode Network
 
