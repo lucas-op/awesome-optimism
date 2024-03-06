@@ -158,6 +158,7 @@ Official resources for Optimism:
 - [Superchain and the Rise of Rollups](https://messari.io/report/into-the-superchain-the-rise-of-ethereum-centric-rollup-ecosystems) - (Apr '23) - Messari's report on Optimism's Superchain and business model for rollups.
 - [The Rollup Multiverse](https://dba.mirror.xyz/hyRKK4_PDrO2FKpF6eIRvnq8sA_Mx7dXtQf_MWzSWTU) - (May '23) - Understanding the distinction between rollups and bridge mechanisms, with a focus on Optimism as an example.
 - [Maximizing fault proof modularity with a composable pre-image oracle](https://blog.oplabs.co/composable-pre-image-oracle/) - (Aug '23) - Explores the modular design of the OP Stack's Fault Proof System, featuring a deep dive into the system's pre-image oracle.
+- [The Endgame for Decentralization in the OP Ecosystem is Stage 2](https://blog.oplabs.co/endgame-is-stage-2/) - (Dec '23) - Discusses OP Labs' approach to Stage 2 decentralization for the Optimism ecosystem through a trustless fault proof system, multiple proving mechanisms, and a security council.
 
 ## Development Tools
 
