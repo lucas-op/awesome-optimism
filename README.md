@@ -126,7 +126,10 @@ Official resources for Optimism:
 - [RSS3 Value SubLayer](https://zentachain.io/) - The RSS3 Value Sublayer is an Ethereum Layer2 built with OP Stack and Celestia DA, handling the value and ownership of AI and Open Information.
 - [Fraxtal](https://www.frax.com/) - Modular L2 blockchain built by Frax.
 
+### Layer 3
 
+- [Syndicate Frame Chain](https://syndicate.io/blog/syndicate-frame-chain) -  OP Stack L3 on Base with Celestia underneath unlocking high throughput and extremely low gas costs for Frame developers.
+- [Stack](https://www.stack.so/) - Stack Chain is a blockchain for bringing points onchain, allowing brands to create and own their loyalty programs.
 
 ## Tutorials
 
