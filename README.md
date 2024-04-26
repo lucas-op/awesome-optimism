@@ -97,7 +97,6 @@ Official resources for Optimism:
 - [Aevo](https://www.aevo.xyz/) - The canonical chain for Aevo Exchange, a decentralized options exchange.
 - [Base](https://base.org/) - Coinbase's Layer 2 network offering scalability and faster transactions.
 - [Kroma](https://github.com/kroma-network/) - Universal ZK Rollup based on the Optimism Bedrock architecture.
-- [Public Goods Network (PGN)](https://publicgoods.network/) - Layer 2 network supported by Gitcoin that works to create durable and recurring funding for public goods. 
 - [Zora Network](https://zora.co/) - Layer 2 integration with Zora NFT trading market, attracting artists and collectors.
 - [Mode Network](https://www.mode.network/) - Network built on OP Stack with contract revenue sharing incentives at the protocol layer.
 
@@ -125,6 +124,7 @@ Official resources for Optimism:
 - [Zentachain](https://zentachain.io/) - Zentachain is a privacy-focused IoT blockchain networking project.
 - [RSS3 Value SubLayer](https://zentachain.io/) - The RSS3 Value Sublayer is an Ethereum Layer2 built with OP Stack and Celestia DA, handling the value and ownership of AI and Open Information.
 - [Fraxtal](https://www.frax.com/) - Modular L2 blockchain built by Frax.
+- [W3Gamez](https://w3gamez.network/) - Layer-2 Gaming Blockchain.
 
 ### Layer 3
 
