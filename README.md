@@ -99,6 +99,7 @@ Official resources for Optimism:
 - [Kroma](https://github.com/kroma-network/) - Universal ZK Rollup based on the Optimism Bedrock architecture.
 - [Zora Network](https://zora.co/) - Layer 2 integration with Zora NFT trading market, attracting artists and collectors.
 - [Mode Network](https://www.mode.network/) - Network built on OP Stack with contract revenue sharing incentives at the protocol layer.
+- [Redstone](https://lattice.xyz/blog/start-your-engines-redstone-live) - Gaming focused L2.
 
 ### Upcoming
 
@@ -115,7 +116,6 @@ Official resources for Optimism:
 - [Mina](https://minaprotocol.com/) - Adding ZK proofs to Optimism's fault proof stack to create ZK-Optimistic hybrid rollups.
 - [StealthChain](https://stealthchain.org/) - Decentralized, Ethereum-equivalent OP Stack Rollup.
 - [Synpase](https://docs.synapseprotocol.com/synapse-chain/synapse-chain) - Natively interchain rollup, able to communicate other supported chains by the Synapse Interchain Network.
-- [Redstone](https://github.com/latticexyz/redstone) - The first plasma-implementation for the OP Stack.
 - [Swan](https://www.swanchain.io/homepage/) - Open marketplace for cloud resources.
 - [Lisk](https://lisk.com/blog/posts/announcing-lisk-move-to-ethereum-ecosystem) - Built using Gelato with a focus on RWA and DePIN.
 - [BOB](https://www.gobob.xyz/) - BOB ("Build on Bitcoin") is an OP Stack rollup that natively supports the Bitcoin stack.
