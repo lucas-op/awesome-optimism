@@ -100,6 +100,7 @@ Official resources for Optimism:
 - [Zora Network](https://zora.co/) - Layer 2 integration with Zora NFT trading market, attracting artists and collectors.
 - [Mode Network](https://www.mode.network/) - Network built on OP Stack with contract revenue sharing incentives at the protocol layer.
 - [Redstone](https://lattice.xyz/blog/start-your-engines-redstone-live) - Gaming focused L2.
+- [BOB](https://www.gobob.xyz/) - BOB ("Build on Bitcoin") is an OP Stack rollup that natively supports the Bitcoin stack.
 
 ### Upcoming
 
@@ -118,13 +119,13 @@ Official resources for Optimism:
 - [Synpase](https://docs.synapseprotocol.com/synapse-chain/synapse-chain) - Natively interchain rollup, able to communicate other supported chains by the Synapse Interchain Network.
 - [Swan](https://www.swanchain.io/homepage/) - Open marketplace for cloud resources.
 - [Lisk](https://lisk.com/blog/posts/announcing-lisk-move-to-ethereum-ecosystem) - Built using Gelato with a focus on RWA and DePIN.
-- [BOB](https://www.gobob.xyz/) - BOB ("Build on Bitcoin") is an OP Stack rollup that natively supports the Bitcoin stack.
 - [Metal](https://metall2.com/) - Metal L2 is an upcoming scaling solution by Metallicus.
 - [Mint](https://www.mintchain.io/) - Mint Blockchain is a Layer 2 network for NFTs.
 - [Zentachain](https://zentachain.io/) - Zentachain is a privacy-focused IoT blockchain networking project.
 - [RSS3 Value SubLayer](https://zentachain.io/) - The RSS3 Value Sublayer is an Ethereum Layer2 built with OP Stack and Celestia DA, handling the value and ownership of AI and Open Information.
 - [Fraxtal](https://www.frax.com/) - Modular L2 blockchain built by Frax.
 - [W3Gamez](https://w3gamez.network/) - Layer-2 Gaming Blockchain.
+- [Axonum](https://www.axonum.io/) - OP Stack L2 with a precompile to access AI inference directly from smart contracts.
 
 ### Layer 3
 
