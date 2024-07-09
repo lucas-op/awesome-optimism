@@ -101,6 +101,10 @@ Official resources for Optimism:
 - [Mode Network](https://www.mode.network/) - Network built on OP Stack with contract revenue sharing incentives at the protocol layer.
 - [Redstone](https://lattice.xyz/blog/start-your-engines-redstone-live) - Gaming focused L2.
 - [BOB](https://www.gobob.xyz/) - BOB ("Build on Bitcoin") is an OP Stack rollup that natively supports the Bitcoin stack.
+- [RSS3 Value SubLayer](https://rss3.io/) - The RSS3 Value Sublayer is an Ethereum Layer2 built with OP Stack and Celestia DA, handling the value and ownership of AI and Open Information.
+- [Karak](https://karak.network/) - Karak is the universal restaking layer powered by the entire cryptoeconomy across every asset and every chain.
+- [Fraxtal](https://www.frax.com/) - Modular L2 blockchain built by Frax.
+
 
 ### Upcoming
 
@@ -122,8 +126,6 @@ Official resources for Optimism:
 - [Metal](https://metall2.com/) - Metal L2 is an upcoming scaling solution by Metallicus.
 - [Mint](https://www.mintchain.io/) - Mint Blockchain is a Layer 2 network for NFTs.
 - [Zentachain](https://zentachain.io/) - Zentachain is a privacy-focused IoT blockchain networking project.
-- [RSS3 Value SubLayer](https://zentachain.io/) - The RSS3 Value Sublayer is an Ethereum Layer2 built with OP Stack and Celestia DA, handling the value and ownership of AI and Open Information.
-- [Fraxtal](https://www.frax.com/) - Modular L2 blockchain built by Frax.
 - [W3Gamez](https://w3gamez.network/) - Layer-2 Gaming Blockchain.
 - [Axonum](https://www.axonum.io/) - OP Stack L2 with a precompile to access AI inference directly from smart contracts.
 
