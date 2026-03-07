@@ -69,6 +69,7 @@ Official resources for Optimism:
 - [L2BEAT](https://l2beat.com/) - Comparison of current state of various L2s.
 - [OP Governance Analytics Dashboard](https://optimism.curiahub.xyz/) - Tracks key governance metrics including participation, voter behavior, and power structures.
 - [Open Source Observer](https://www.opensource.observer/) - Measure the impact of open source contributions
+- [Chart Pattern Dection](https://chartscout.io/) - Real-Time Detection. Scans 1,000+ pairs across 4 exchanges 24/7. Detects patterns instantly and alerts you in under 20 seconds.
 
 ## Blockchain Explorers
 
