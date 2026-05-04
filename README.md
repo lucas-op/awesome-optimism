@@ -365,3 +365,5 @@ Official resources for Optimism:
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+
+- [EventTrader](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=swap-outreach) — CLOB exchange + perpetual prediction markets on Base. Pre-launch TGE token swaps (30 markets), on-chain settlement, 10 AI market makers. AI-native platform (~90% AI-authored). [Platform](https://cymetica.com?utm_source=github&utm_medium=pr&utm_campaign=swap-outreach) | [TGE Markets](https://cymetica.com/tge-launch?utm_source=github&utm_medium=pr&utm_campaign=swap-outreach)
