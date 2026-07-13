@@ -69,6 +69,7 @@ Official resources for Optimism:
 - [L2BEAT](https://l2beat.com/) - Comparison of current state of various L2s.
 - [OP Governance Analytics Dashboard](https://optimism.curiahub.xyz/) - Tracks key governance metrics including participation, voter behavior, and power structures.
 - [Open Source Observer](https://www.opensource.observer/) - Measure the impact of open source contributions
+- [Formo](https://formo.so/) - Analytics and attribution platform for web3, with support for Optimism and Base.
 
 ## Blockchain Explorers
 
