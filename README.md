@@ -225,6 +225,7 @@ Official resources for Optimism:
 - [Lyra](https://app.lyra.finance/) - Decentralized options protocol.
 - [Odos](https://app.odos.xyz/) - DeFi Aggregator with multi-input and multi-output swaps.
 - [Aperture](https://app.aperture.finance/swap) - Concentrated liquidity DEX with native LP automation features.
+- [0xKeep](https://0x-keep.xyz/) - Immutable, non-custodial ERC-20/LP token locker and linear vesting. No admin keys.
 
 <h4>Bridges</h4>
 
@@ -283,6 +284,7 @@ Official resources for Optimism:
 - [Avantis](https://www.avantisfi.com/) - Oracle-based synthetic derivatives protocol with up to 100x leverage.
 - [Overnight Finance](https://overnight.fi/) - Asset management protocol offering passive yield products based on delta-neutral strategies.
 - [IntentX](https://intentx.io/) - Perpetuals platform based on intent technology
+- [0xKeep](https://0x-keep.xyz/) - Immutable, non-custodial ERC-20/LP token locker and linear vesting. No admin keys.
 
  <h4>Gaming</h4>
 
