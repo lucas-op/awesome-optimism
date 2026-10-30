@@ -198,6 +198,7 @@ Official resources for Optimism:
 
 - [BEAM Wallet](https://about.beam.eco/) - Wallet built on OPStack and account abstraction.
 - [Frame](https://frame.sh/) - A privacy-focused Ethereum wallet for Web3
+- [Oath Wallet](https://oathwallet.org/) - iPhone and iPad wallet supporting Optimism and other networks.
 
 <h4>Naming Service</h4>
 
